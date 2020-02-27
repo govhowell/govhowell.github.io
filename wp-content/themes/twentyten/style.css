@@ -1308,7 +1308,7 @@ h3#reply-title {
 	position: relative;
 }
 #site-generator a {
-	background: url(/govhowell..github.io/wp-content/themes/twentyten/images/wordpress.png) center left no-repeat;
+	background: url(https://govhowell.github.io/wp-content/themes/twentyten/images/wordpress.png) center left no-repeat;
 	color: #666;
 	display: inline-block;
 	line-height: 16px;
