@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments for Governor Richard Howell	</title>
+	<atom:link href="/govhowell..github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/govhowell..github.io/</link>
+	<description>Richard Howell - Patriot</description>
+	<lastBuildDate>Tue, 18 Feb 2020 21:40:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+			<item>
+				<title>
+				Comment on Major Richard Howell writes Benedict Arnold by Jasmine Polson				</title>
+				<link>/govhowell..github.io/rh-writes-arnold1/#comment-685</link>
+		<dc:creator><![CDATA[Jasmine Polson]]></dc:creator>
+		<pubDate>Thu, 31 May 2018 14:20:24 +0000</pubDate>
+		<guid isPermaLink="false">/govhowell..github.io/?p=287#comment-685</guid>
+					<description><![CDATA[I would like to find out more about the image depicting Maj. Howell wearing a blue uniform that is displayed on your website. Where does this painting reside?
+Thank you.]]></description>
+		<content:encoded><![CDATA[<p>I would like to find out more about the image depicting Maj. Howell wearing a blue uniform that is displayed on your website. Where does this painting reside?<br />
+Thank you.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>
