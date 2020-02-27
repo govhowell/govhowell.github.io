@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Maps	</title>
-	<atom:link href="https://govhowell.github.io/maps/feed/" rel="self" type="application/rss+xml" />
-	<link>https://govhowell.github.io/</link>
+	<atom:link href="/maps/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Richard Howell - Patriot</description>
 	<lastBuildDate>Thu, 12 Mar 2015 01:20:05 +0000</lastBuildDate>
 	<sy:updatePeriod>

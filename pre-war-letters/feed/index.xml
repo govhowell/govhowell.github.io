@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Pre-War Letters	</title>
-	<atom:link href="https://govhowell.github.io/pre-war-letters/feed/" rel="self" type="application/rss+xml" />
-	<link>https://govhowell.github.io/</link>
+	<atom:link href="/pre-war-letters/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Richard Howell - Patriot</description>
 	<lastBuildDate>Sat, 28 Feb 2015 13:04:22 +0000</lastBuildDate>
 	<sy:updatePeriod>

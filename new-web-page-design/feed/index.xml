@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: New Web Page Design	</title>
-	<atom:link href="https://govhowell.github.io/new-web-page-design/feed/" rel="self" type="application/rss+xml" />
-	<link>https://govhowell.github.io/new-web-page-design/</link>
+	<atom:link href="/new-web-page-design/feed/" rel="self" type="application/rss+xml" />
+	<link>/new-web-page-design/</link>
 	<description>Richard Howell - Patriot</description>
 	<lastBuildDate>Tue, 18 Feb 2020 21:40:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
