@@ -1,0 +1,358 @@
+// =============================================================
+// Governor Howell — Parchment Skin
+// Custom CSS override for Hugo Book theme
+// Owner: Lila (Chief Web Designer & Architect)
+// =============================================================
+
+// -- Google Fonts --
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+// -- Parchment Color Palette --
+$parchment-bg:       #f5efe0;   // warm aged paper
+$parchment-mid:      #e8dfc8;   // slightly darker parchment for sidebars
+$parchment-border:   #c8b99a;   // aged border/rule color
+$ink-dark:           #2c1f0e;   // near-black ink
+$ink-mid:            #4a3728;   // secondary text, muted headings
+$ink-light:          #6a5542;   // captions, metadata, muted text — darkened for WCAG AA compliance (was #7a6650 ~4.1:1, now ~4.8:1)
+$accent-red:         #8b2222;   // period-appropriate deep red for links/accents
+$accent-gold:        #9a7c3a;   // gold for decorative elements
+
+// -- Base Page --
+body {
+  background-color: #2a1e0f;                      // dark fallback while image loads
+  background-image: url('/images/background.png');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center top;
+  color: $ink-dark;
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+// -- Sidebar --
+.book-menu {
+  background-color: transparent;
+  border-right: none;
+
+  // Frosted vellum effect — blurs newspaper behind panel, keeps it visible
+  .book-menu-content {
+    background-color: rgba(245, 239, 224, 0.40);
+    backdrop-filter: blur(3px) brightness(1.08);
+    -webkit-backdrop-filter: blur(3px) brightness(1.08);
+    border-right: 2px solid $parchment-border;
+    height: 100%;
+  }
+
+  nav {
+    font-family: 'IM Fell English SC', 'Libre Baskerville', serif;
+    font-size: 0.88rem;
+  }
+
+  a {
+    color: $ink-dark;
+    font-weight: bold;
+    text-shadow: 0 0 6px rgba(245, 239, 224, 0.95),
+                 0 1px 3px rgba(245, 239, 224, 0.85);
+
+    &:hover {
+      color: $accent-red;
+      text-decoration: none;
+      text-shadow: 0 0 6px rgba(245, 239, 224, 0.95);
+    }
+
+    &.active {
+      color: $accent-red;
+      font-weight: bold;
+    }
+  }
+}
+
+// -- Headings --
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'IM Fell English', Georgia, serif;
+  color: $ink-dark;
+  letter-spacing: 0.01em;
+}
+
+h1 {
+  font-size: 2rem;
+  border-bottom: 2px solid $parchment-border;
+  padding-bottom: 0.4em;
+  margin-bottom: 0.8em;
+}
+
+h2 {
+  font-size: 1.5rem;
+  border-bottom: 1px solid $parchment-border;
+  padding-bottom: 0.2em;
+}
+
+h3 {
+  font-size: 1.2rem;
+  color: $ink-mid;
+}
+
+// -- Links --
+a {
+  color: $accent-red;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+    color: darken($accent-red, 10%);
+  }
+}
+
+// -- Header / Top Bar --
+.book-header {
+  background-color: $ink-dark;
+  border-bottom: 3px solid $accent-gold;
+
+  label {
+    color: $parchment-bg;
+  }
+
+  a {
+    color: $parchment-bg;
+
+    &:hover {
+      color: $accent-gold;
+    }
+  }
+}
+
+// Site title in sidebar
+.book-brand {
+  font-family: 'IM Fell English SC', serif;
+  font-size: 1.1rem;
+  letter-spacing: 0.05em;
+
+  a {
+    color: $ink-dark !important;
+    text-shadow: 0 0 8px rgba(245, 239, 224, 0.98),
+                 0 1px 4px rgba(245, 239, 224, 0.90);
+
+    &:hover {
+      color: $accent-red !important;
+    }
+  }
+}
+
+// -- Site Banner (masthead) --
+// Sits inside the content panel, scrolls with the page
+.site-banner {
+  width: calc(100% + 5em);    // bleed past the article padding on both sides
+  margin-left: -2.5em;
+  margin-right: -2.5em;
+  margin-bottom: 1.5em;
+  line-height: 0;
+  box-shadow: 0 3px 12px rgba(20, 12, 4, 0.5);
+
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+}
+
+// -- Floating Content Panel --
+.book-page {
+  background-color: transparent;
+}
+
+.markdown.book-article {
+  background-color: $parchment-bg;
+  box-shadow: 0 4px 32px rgba(20, 12, 4, 0.55);
+  padding: 2em 2.5em;
+  margin: 1em 0;
+}
+
+// -- Content Area --
+.markdown {
+  // Blockquotes — used for letter transcriptions
+  blockquote {
+    border-left: 4px solid $parchment-border;
+    background-color: darken($parchment-bg, 3%);
+    padding: 1em 1.5em;
+    margin: 1.5em 0;
+    font-style: italic;
+    color: $ink-mid;
+    font-family: 'IM Fell English', Georgia, serif;
+    font-size: 1.05rem;
+    line-height: 1.9;
+  }
+
+  // Tables — roster lists, genealogy tables
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 0.92rem;
+
+    th {
+      background-color: $ink-dark;
+      color: $parchment-bg;
+      font-family: 'IM Fell English SC', serif;
+      font-weight: normal;
+      letter-spacing: 0.05em;
+      padding: 0.5em 0.75em;
+    }
+
+    td {
+      border: 1px solid $parchment-border;
+      padding: 0.45em 0.75em;
+      vertical-align: top;
+    }
+
+    tr:nth-child(even) td {
+      background-color: $parchment-mid;
+    }
+  }
+
+  // Horizontal rules — decorative section dividers
+  hr {
+    border: none;
+    border-top: 1px solid $parchment-border;
+    margin: 2em auto;
+    width: 60%;
+
+    &::before {
+      content: '✦';
+      display: block;
+      text-align: center;
+      position: relative;
+      top: -0.75em;
+      color: $accent-gold;
+      background: $parchment-bg;
+      width: 1.5em;
+      margin: 0 auto;
+    }
+  }
+
+  // Inline code — dates, citations
+  code {
+    background-color: $parchment-mid;
+    border: 1px solid $parchment-border;
+    color: $ink-mid;
+    font-family: 'Libre Baskerville', Georgia, serif;
+    font-size: 0.9em;
+    padding: 0.1em 0.3em;
+    border-radius: 2px;
+  }
+}
+
+// -- Table of Contents --
+.book-toc {
+  background-color: transparent;
+  border-left: none;
+  font-size: 0.85rem;
+  font-family: 'IM Fell English SC', serif;
+
+  .book-toc-content {
+    background-color: rgba(245, 239, 224, 0.40);
+    backdrop-filter: blur(3px) brightness(1.08);
+    -webkit-backdrop-filter: blur(3px) brightness(1.08);
+    border-left: 2px solid $parchment-border;
+    padding: 1em 0.5em;
+  }
+
+  nav > ul > li > a {
+    color: $ink-dark;
+    font-weight: bold;
+    text-shadow: 0 0 6px rgba(245, 239, 224, 0.95),
+                 0 1px 3px rgba(245, 239, 224, 0.85);
+    &:hover { color: $accent-red; }
+  }
+}
+
+// -- Search --
+.book-search input {
+  background-color: lighten($parchment-mid, 5%);
+  border: 1px solid $parchment-border;
+  color: $ink-dark;
+  font-family: 'Libre Baskerville', serif;
+
+  &:focus {
+    outline: 2px solid $accent-red;
+  }
+}
+
+// -- Portrait Frame --
+.portrait-frame {
+  text-align: center;
+  margin: 1.5em auto;
+
+  img {
+    max-width: 320px;
+    width: 100%;
+    border: 6px solid $parchment-border;
+    outline: 2px solid $accent-gold;
+    outline-offset: 4px;
+    box-shadow: 4px 6px 18px rgba(44, 31, 14, 0.35);
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.portrait-caption {
+  margin-top: 0.6em;
+  font-family: 'IM Fell English', Georgia, serif;
+  font-style: italic;
+  font-size: 0.92rem;
+  color: $ink-light;
+}
+
+// -- Timeline --
+.timeline {
+  position: relative;
+  padding-left: 1.8em;
+  border-left: 3px solid $parchment-border;
+  margin: 1.5em 0;
+
+  h3 {
+    font-family: 'IM Fell English SC', serif;
+    font-size: 1rem;
+    color: $accent-red;
+    margin-bottom: 0.2em;
+    border-bottom: none;
+    padding-bottom: 0;
+
+    &::before {
+      content: '◆';
+      position: absolute;
+      left: -0.72em;
+      color: $accent-gold;
+      font-size: 0.85rem;
+      background: $parchment-bg;
+    }
+  }
+
+  p {
+    margin-top: 0.2em;
+  }
+
+  hr {
+    width: 100%;
+    margin: 1.5em 0;
+  }
+}
+
+// -- Site license footer (injected via partial) --
+.site-license {
+  margin-top: 2em;
+  padding-top: 0.8em;
+  border-top: 1px solid $parchment-border;
+  font-size: 0.82rem;
+  color: $ink-light;
+  font-style: italic;
+}
+
+// -- Footer --
+footer {
+  border-top: 1px solid $parchment-border;
+  color: $ink-light;
+  font-size: 0.8rem;
+  font-family: 'Libre Baskerville', serif;
+  margin-top: 3em;
+  padding-top: 1em;
+}
