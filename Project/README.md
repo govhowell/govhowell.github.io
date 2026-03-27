@@ -50,10 +50,12 @@ Project/
 
 ## Current Status
 
-**Phase:** Kickoff / Audit
-**Next milestone:** Complete site audit and theme selection (target: 2026-04-02)
+**Phase:** LIVE ✅
+**Deployed:** 2026-03-27
+**URL:** https://govhowell.org
+**Repository:** github.com/govhowell/govhowell.github.io
 
-See `notes/change-log.md` for full history.
+The site is fully deployed on GitHub Pages. Any push to `master` triggers an automatic Hugo build and deploy via GitHub Actions. See `notes/change-log.md` for full history and outstanding items.
 
 ---
 

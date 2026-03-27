@@ -5,6 +5,36 @@
 
 ---
 
+## 2026-03-27 — SITE LIVE at govhowell.org ✅
+
+### Deployment Complete
+- GitHub repository created: `github.com/govhowell/govhowell.github.io`
+- SSH key generated (`id_govhowell`) and added to GitHub for authentication
+- Hugo site pushed to `master` branch — single clean orphan commit
+- GitHub Actions workflow (`deploy.yml`) builds Hugo on push to `master`, publishes built output to `gh-pages` branch
+- GitHub Pages configured: source = `gh-pages / (root)`, custom domain = `govhowell.org`
+- `.nojekyll` added to repo root to prevent GitHub's Jekyll builder from interfering
+- **govhowell.org confirmed live and loading correctly**
+
+### Repository Restructure
+- WordPress HTML export files deleted from repo (all untracked debris removed)
+- `hugo-site/` subdirectory eliminated — Hugo source moved to repo root
+- `hugo-site/.git` (empty nested repo) and broken submodule `.git` file removed
+- hugo-book theme vendored directly as regular files (pinned commit `751bde0`)
+- `deploy.yml` updated: removed `submodules: recursive`, removed `working-directory: hugo-site`, changed `publish_dir` to `./public`, trigger changed from `main` → `master`
+- `start_webserver.sh` updated: `HUGO_DIR` now points to repo root
+- `.gitignore` updated: removed `hugo-site/` prefixes, added `.DS_Store`, `.vscode/`, `*.swp`
+- Repository history squashed to single clean commit via orphan branch
+
+### Outstanding Items
+- GitHub Actions Node.js 20 deprecation warning — update action versions before June 2, 2026
+- Formspree contact form — requires Lila to configure endpoint for govhowell.org domain
+- Lewis Howell death date — three conflicting sources; primary source verification pending
+- Clarence Parvin — name needs verification against *Tea Burners of Cumberland County*
+- Action SHA pinning — `peaceiris/actions-hugo@v3` and `peaceiris/actions-gh-pages@v4` should be pinned to commit SHAs
+
+---
+
 ## 2026-03-27 (updated — Richard Howell portrait added to homepage)
 
 ### Portrait Placed on Homepage
