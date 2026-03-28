@@ -96,7 +96,7 @@ This is a map of New Jersey at the time of the Revolutionary War. Black Point, w
 
 ## Sources
 
-[^1]: Colonel Israel Shreve (1739–1799) commanded the 2nd New Jersey Regiment from 1777 until his retirement in January 1781. The Israel Shreve Revolutionary War Letters, 1768–1894, are held by Special Collections, University of Houston Libraries, and are digitized at https://digital.lib.uh.edu/collection/p15195coll12.
+[^1]: Colonel Israel Shreve (1739–1799) commanded the 2nd New Jersey Regiment from 1777 until his retirement in January 1781. The Israel Shreve Revolutionary War Letters, 1768–1894, are held by Special Collections, University of Houston Libraries, and are digitized at https://digitalcollections.lib.uh.edu/collections/zw12z636k?locale=en.
 
 [^2]: Keziah Burr (c. 1756–1824) was from a Quaker family, likely of Burlington or Cumberland County, New Jersey. She married Richard Howell circa 1779. Her Quaker background explains her parents' hostility toward a military suitor.
 
@@ -104,7 +104,7 @@ This is a map of New Jersey at the time of the Revolutionary War. Black Point, w
 
 [^4]: Black Point (present-day Sea Bright, Monmouth County, N.J.) was Richard Howell's observation post from August 1778 through early January 1779. Washington stationed him there to monitor the British fleet at Sandy Hook. See Washington's letter to Nathanael Greene, August 21, 1778, noting Howell "stationed at black point for the purpose of observn."
 
-[^5]: *Letter from Richard Howell to Israel Shreve, Howell, Richard (1) page 1.* October 5, 1778. Israel Shreve Revolutionary War Letters, 1768–1894, Special Collections, University of Houston Libraries. University of Houston Digital Library, https://digital.lib.uh.edu/collection/p15195coll12/item/63/show/60 (page 1), https://digital.lib.uh.edu/collection/p15195coll12/item/63/show/61 (page 2), https://digital.lib.uh.edu/collection/p15195coll12/item/63/show/62 (page 3, postscript by John Peck).
+[^5]: *Letter from Richard Howell to Israel Shreve, Howell, Richard (1) page 1.* October 5, 1778. Israel Shreve Revolutionary War Letters, 1768–1894, Special Collections, University of Houston Libraries. University of Houston Digital Library, https://digitalcollections.lib.uh.edu/collections/zw12z636k?locale=en (collection landing page; individual item pages from the previous platform are no longer available).
 
 ---
 

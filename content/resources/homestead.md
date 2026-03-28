@@ -33,7 +33,7 @@ The following images are from the Historic American Buildings Survey (Library of
 | [![Survey drawing 3](/images/00003r.jpg)](/images/00003r.jpg) | [![Survey drawing 4](/images/00002r.jpg)](/images/00002r.jpg) |
 | [![Survey drawing 5](/images/00006r.jpg)](/images/00006r.jpg) | [![Survey drawing 6](/images/00001r.jpg)](/images/00001r.jpg) |
 
-A special thanks to the Smithsonian Museum for the content above. The original content can be viewed [here](http://hdl.loc.gov/loc.pnp/hhh.nj0452).[^1]
+A special thanks to the Smithsonian Museum for the content above. The original content can be viewed [here](https://hdl.loc.gov/loc.pnp/hhh.nj0452).[^1]
 
 ---
 
@@ -83,7 +83,7 @@ Historic American Buildings Survey (Library of Congress)
 Library of Congress, Prints and Photograph Division, Washington, D.C. 20540 USA
 
 **DIGITAL ID:**
-http://hdl.loc.gov/loc.pnp/hhh.nj0452
+https://hdl.loc.gov/loc.pnp/hhh.nj0452
 
 **PHOTOGRAPH CAPTION:**
 1. Historic American Buildings Survey, Nathaniel R. Ewan, Photographer, April 24, 1936, EXTERIOR, SOUTH ELEVATION
@@ -103,7 +103,7 @@ NJ0452
 
 - The text as originally published has a line break mid-sentence: "At the time of the homestead survey there were initials 'RH 1773' and 'LH' carved next to the rear d / oorway." This appears to be a formatting artifact in the original WordPress post, the sentence reads correctly when joined and is reproduced correctly here.
 
-- The HABS survey is a reliable documentation source. The Library of Congress HABS record (NJ0452) is publicly accessible at http://hdl.loc.gov/loc.pnp/hhh.nj0452.
+- The HABS survey is a reliable documentation source. The Library of Congress HABS record (NJ0452) is publicly accessible at https://hdl.loc.gov/loc.pnp/hhh.nj0452.
 
 - The homestead photographs (00001r through 00006r) are measured architectural drawings, not photographs. The single HABS photograph (111985pv.jpg) shows the south elevation taken April 24, 1936 by Nathaniel R. Ewan. These files should all be preserved in `/images/`.
 

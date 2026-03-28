@@ -105,13 +105,13 @@ Richard Howell serves as one of two delegates from Gloucester County, New Jersey
 
 [^2]: New Jersey State Archives, Revolutionary War Records; Mark Edward Lender, *The River War: The Fight for the Delaware, 1777* (Rutgers University Press, 2022).
 
-[^3]: National Park Service, Brandywine Battlefield, "Battle of Brandywine, September 11, 1777," <https://www.nps.gov/articles/battle-of-brandywine.htm>
+[^3]: National Park Service, "The Philadelphia Campaign of 1777" (covers Battle of Brandywine, September 11, 1777), <https://www.nps.gov/articles/000/philadelphia-campaign-1777.htm>
 
-[^4]: National Park Service, "Battle of Germantown, October 4, 1777," <https://www.nps.gov/articles/battle-of-germantown.htm>
+[^4]: National Park Service, "The Philadelphia Campaign of 1777" (covers Battle of Germantown, October 4, 1777), <https://www.nps.gov/articles/000/philadelphia-campaign-1777.htm>
 
 [^5]: National Park Service, Valley Forge National Historical Park, <https://www.nps.gov/vafo/index.htm>
 
-[^6]: Valley Forge Muster Roll Project, 2nd New Jersey Regiment, <http://valleyforgemusterroll.org/regiments/nj2.asp>
+[^6]: Valley Forge Muster Roll Project, 2nd New Jersey Regiment, <https://valleyforgemusterroll.org/2nd-new-jersey-regiment/>
 
 [^7]: *The Papers of George Washington*, Revolutionary War Series, vol. 19, pp. 765–766, Founders Online, National Archives, <https://founders.archives.gov/documents/Washington/03-19-02-0717>. Lewis Howell is referenced as ill at the time of the Battle of Monmouth (June 28, 1778).
 
@@ -119,7 +119,7 @@ Richard Howell serves as one of two delegates from Gloucester County, New Jersey
 
 [^9]: *The Papers of George Washington*, Revolutionary War Series; see also Founders Online, National Archives, <https://founders.archives.gov>
 
-[^10]: National Park Service, Monmouth Battlefield State Park, "Battle of Monmouth, June 28, 1778," <https://www.nps.gov/articles/battle-of-monmouth.htm>
+[^10]: National Park Service, Monmouth Battlefield State Park, <https://www.nps.gov/mono/index.htm>
 
 [^11]: *The Papers of George Washington*, Revolutionary War Series, Founders Online, National Archives, <https://founders.archives.gov>
 

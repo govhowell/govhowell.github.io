@@ -75,7 +75,7 @@ As war breaks out, Richard Howell enlists in the Continental Army. He is commiss
 
 [^3]: Leach (1898). Birth date of Richard Bond Howell and his twin brother Lewis B. Howell, October 25, 1754, Newark, New Castle County, Delaware.
 
-[^4]: Historic American Buildings Survey, "Howell House," HABS NJ-1025, Library of Congress Prints and Photographs Division. <http://hdl.loc.gov/loc.pnp/hhh.nj0452>
+[^4]: Historic American Buildings Survey, "Howell House," HABS NJ-1025, Library of Congress Prints and Photographs Division. <https://hdl.loc.gov/loc.pnp/hhh.nj0452>
 
 [^5]: Leach (1898); see also Henry Charlton Beck, *Fare to Midlands: Forgotten Towns of Central New Jersey* (New York: Dutton, 1939), and local Cumberland County histories documenting the Greenwich Tea Burning of December 22, 1774.
 

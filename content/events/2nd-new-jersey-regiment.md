@@ -9,7 +9,7 @@ tags: ["revolutionary-war", "military", "2nd-new-jersey", "valley-forge", "maxwe
 weight: 1
 ---
 
-The **2nd New Jersey Regiment** was part of [Maxwell's Brigade](http://valleyforgemusterroll.org/brigades/nj.asp) in the Continental Army. Richard Howell served as **Major** of this regiment, the military role that defined the first half of his public life.
+The **2nd New Jersey Regiment** was part of [Maxwell's Brigade](https://valleyforgemusterroll.org/maxwells-brigade/) in the Continental Army. Richard Howell served as **Major** of this regiment, the military role that defined the first half of his public life.
 
 ## History
 
@@ -68,14 +68,14 @@ The regiment entered Valley Forge with 275 men assigned, of whom 204 were fit fo
 ## Related
 
 - [Richard Howell's letter to Col. Israel Shreve, 5 October 1778](/letters/)
-- [Valley Forge Muster Roll, 2nd New Jersey](http://valleyforgemusterroll.org/regiments/nj2.asp)
+- [Valley Forge Muster Roll, 2nd New Jersey](https://valleyforgemusterroll.org/2nd-new-jersey-regiment/)
 
 ---
 
 ## Sources
 
-- [Valley Forge Muster Roll — 2nd New Jersey Regiment](http://valleyforgemusterroll.org/regiments/nj2.asp), Valley Forge Legacy: The Muster Roll Project.
-- [Maxwell's Brigade](http://valleyforgemusterroll.org/brigades/nj.asp), Valley Forge Legacy: The Muster Roll Project.
+- [Valley Forge Muster Roll — 2nd New Jersey Regiment](https://valleyforgemusterroll.org/2nd-new-jersey-regiment/), Valley Forge Legacy: The Muster Roll Project.
+- [Maxwell's Brigade](https://valleyforgemusterroll.org/maxwells-brigade/), Valley Forge Legacy: The Muster Roll Project.
 
 ---
 
