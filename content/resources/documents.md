@@ -27,7 +27,7 @@ Here is a list of documents we have collected over the years. All documents are 
 
 - These PDF files were originally hosted at `/wp-content/uploads/2015/02/`. They need to be moved to a `/documents/` directory (or `/static/documents/`) in the Hugo site structure before these links will work.
 
-- The "Governor Howell" sketch (GHOWE1.pdf) is particularly important — it appears to be from the NJ State Library digital collection. The full URL from the revolutionary-war-correspondence page cites: http://slic.njstatelib.org/slic_files/imported/NJ_Information/Digital_Collections/Governors_of_New_Jersey/GHOWE.pdf — verify this is the same document.
+- The "Governor Howell" sketch (GHOWE1.pdf) is particularly important, it appears to be from the NJ State Library digital collection. The full URL from the revolutionary-war-correspondence page cites: http://slic.njstatelib.org/slic_files/imported/NJ_Information/Digital_Collections/Governors_of_New_Jersey/GHOWE.pdf, verify this is the same document.
 
 - *The Pennsylvania Magazine of History and Biography* sketch of Richard Howell (pages 221–222) is the Leach genealogical memorials source that underpins the [Howell Family History](/family/howell-family-history/) page. This is a critical primary reference document.
 

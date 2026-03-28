@@ -17,7 +17,7 @@ weight: 1
 | **Died** | April 28, 1802, Trenton, New Jersey |
 | **Father** | Ebenezer Howell |
 | **Mother** | Sarah S. (Bond) Howell |
-| **Twin Brother** | [Dr. Lewis B. Howell](/people/dr-lewis-howell/) — served as Surgeon, 2nd NJ Regiment |
+| **Twin Brother** | [Dr. Lewis B. Howell](/people/dr-lewis-howell/), served as Surgeon, 2nd NJ Regiment |
 | **Wife** | Keziah (Burr) Howell, married c. 1779–1780 |
 | **Buried** | Friends Burying Ground, South Broad Street, Trenton, NJ |
 
@@ -28,7 +28,7 @@ weight: 1
 | Charles B. Howell | 1780 | 1823 |
 | Mary Ann Howell | 1782 | 1863 |
 | Sarah B. (Howell) Agnew | 1783 | 1863 |
-| Beulah B. (Howell) Glaser | 1785 | — |
+| Beulah B. (Howell) Glaser | 1785 |  |
 | Maria B. Howell | 1790 | 1876 |
 | Richard L. Howell | 1794 | 1841 |
 | Joseph B. Howell | 1794 | 1874 |
@@ -41,9 +41,9 @@ weight: 1
 
 Richard Howell was born on October 25, 1754, in Newark, New Castle County, Delaware, the son of Ebenezer Howell and Sarah S. (Bond) Howell. He was born with a twin brother, Lewis, who would accompany him into the Revolutionary War.
 
-In 1769, Ebenezer Howell moved the family from Delaware to Cumberland County, New Jersey. In 1773 he built the [Howell Homestead](/resources/homestead/) in Roadstown — and carved the initials *"RH 1773"* and *"LH"* by the rear doorway, for Richard and Lewis.
+In 1769, Ebenezer Howell moved the family from Delaware to Cumberland County, New Jersey. In 1773 he built the [Howell Homestead](/resources/homestead/) in Roadstown, and carved the initials *"RH 1773"* and *"LH"* by the rear doorway, for Richard and Lewis.
 
-On **December 22, 1774**, the nineteen-year-old Richard Howell participated in the [Greenwich Tea Burning](/events/greenwich-tea-burning/) — New Jersey's answer to the Boston Tea Party. A group of local patriots, including both Howell brothers, raided a merchant's cellar and burned British tea in the town square. The Howell Homestead served as a staging area. It was Richard Howell's first act of open defiance against the Crown.
+On **December 22, 1774**, the nineteen-year-old Richard Howell participated in the [Greenwich Tea Burning](/events/greenwich-tea-burning/), New Jersey's answer to the Boston Tea Party. A group of local patriots, including both Howell brothers, raided a merchant's cellar and burned British tea in the town square. The Howell Homestead served as a staging area. It was Richard Howell's first act of open defiance against the Crown.
 
 In the years before the war he read law in Cumberland County and served on local committees of correspondence, the colonial political networks that coordinated resistance to British rule. When war came in 1776, he was ready.
 
@@ -57,9 +57,9 @@ Richard Howell was commissioned as an officer in the **2nd New Jersey Regiment**
 
 Howell saw action at three of the war's most significant engagements:
 
-- **Battle of Brandywine** (September 11, 1777) — General Howe's British forces outflanked Washington's army near Philadelphia. The Continentals suffered heavy losses but held together.
-- **Battle of Germantown** (October 4, 1777) — Washington's bold counterattack against the British occupying Philadelphia. Despite initial success, the attack was repulsed. The engagement demonstrated the Continental Army's growing capability.
-- **Battle of Monmouth Courthouse** (June 28, 1778) — One of the longest battles of the war, fought in brutal summer heat. The Continental Army — newly disciplined after Valley Forge — held its ground. The battle ended in a strategic draw.
+- **Battle of Brandywine** (September 11, 1777), General Howe's British forces outflanked Washington's army near Philadelphia. The Continentals suffered heavy losses but held together.
+- **Battle of Germantown** (October 4, 1777), Washington's bold counterattack against the British occupying Philadelphia. Despite initial success, the attack was repulsed. The engagement demonstrated the Continental Army's growing capability.
+- **Battle of Monmouth Courthouse** (June 28, 1778), One of the longest battles of the war, fought in brutal summer heat. The Continental Army, newly disciplined after Valley Forge, held its ground. The battle ended in a strategic draw.
 
 ### Valley Forge
 
@@ -67,26 +67,26 @@ The regiment wintered at Valley Forge with Washington's main army in 1777–1778
 
 ### The Death of Lewis Howell
 
-Richard's twin brother [Dr. Lewis B. Howell](/people/dr-lewis-howell/) fell ill with fever during the Monmouth campaign. He was sick at the time of the Battle of Monmouth (June 28, 1778) and resigned from the army on July 5, 1778. He died shortly thereafter at a tavern near Monmouth Court House. He was 23 years old. The two brothers had been inseparable — born together, raised together, gone to war together. Lewis's death was among the most personal losses Richard endured in the conflict.
+Richard's twin brother [Dr. Lewis B. Howell](/people/dr-lewis-howell/) fell ill with fever during the Monmouth campaign. He was sick at the time of the Battle of Monmouth (June 28, 1778) and resigned from the army on July 5, 1778. He died shortly thereafter at a tavern near Monmouth Court House. He was 23 years old. The two brothers had been inseparable, born together, raised together, gone to war together. Lewis's death was among the most personal losses Richard endured in the conflict.
 
 > *Source: Footnotes to "To George Washington from Major Richard Howell, 7 April 1779," Founders Online, National Archives. Washington Papers, Revolutionary War Series, vol. 19, ed. Philander D. Chase and William M. Ferraro (University of Virginia Press, 2009), pp. 765–766.*
 
 ### Intelligence Officer for General Washington
 
-Beyond his role as a combat officer, Richard Howell served as a trusted intelligence operative for General Washington. He gathered British troop movement information from behind enemy lines and reported it through the chain of command — sometimes directly to Washington, sometimes through General Maxwell at Elizabethtown and Colonel Shreve at Newark.
+Beyond his role as a combat officer, Richard Howell served as a trusted intelligence operative for General Washington. He gathered British troop movement information from behind enemy lines and reported it through the chain of command, sometimes directly to Washington, sometimes through General Maxwell at Elizabethtown and Colonel Shreve at Newark.
 
 His intelligence letters survive in *The Papers of George Washington*. Two of the most significant:
 
-- **June 20, 1778** — Howell's [intelligence letter to Benedict Arnold](/letters/letter-to-benedict-arnold/), then Military Governor of Philadelphia, reporting on British positions and movements in the days before Monmouth. Arnold forwarded it to General Maxwell. The letter was written eight days before the battle.
-- **October 5, 1778** — Howell's [letter to Colonel Israel Shreve](/letters/letter-to-shreve-oct-1778/), reporting from Black Point, New Jersey, on British movements and his personal affairs.
+- **June 20, 1778**, Howell's [intelligence letter to Benedict Arnold](/letters/letter-to-benedict-arnold/), then Military Governor of Philadelphia, reporting on British positions and movements in the days before Monmouth. Arnold forwarded it to General Maxwell. The letter was written eight days before the battle.
+- **October 5, 1778**, Howell's [letter to Colonel Israel Shreve](/letters/letter-to-shreve-oct-1778/), reporting from Black Point, New Jersey, on British movements and his personal affairs.
 
-Washington's headquarters documented Howell's intelligence role in a series of letters between August 1778 and March 1779 — see [Revolutionary War Correspondence](/letters/revolutionary-war-correspondence/).
+Washington's headquarters documented Howell's intelligence role in a series of letters between August 1778 and March 1779, see [Revolutionary War Correspondence](/letters/revolutionary-war-correspondence/).
 
 ### Resignation and Continued Service
 
 In **April 1779**, Richard Howell resigned his commission from the 2nd New Jersey Regiment, citing illness in the army, family obligations, the loss of Lewis, and the need to return to law practice.
 
-> *Source: "To George Washington from Major Richard Howell, 7 April 1779," Founders Online, National Archives (http://founders.archives.gov/documents/Washington/03-19-02-0717). Washington Papers, Revolutionary War Series, vol. 19, pp. 765–766.* But his service did not end there. A January 11, 1780 document from Washington's headquarters at Morristown records that Howell was employed by the **Board of War** on a secret "Plan of Intelligence" — a covert intelligence role that continued even after his formal resignation. He was, in modern terms, a case officer who had transitioned from the military to civilian intelligence work.
+> *Source: "To George Washington from Major Richard Howell, 7 April 1779," Founders Online, National Archives (http://founders.archives.gov/documents/Washington/03-19-02-0717). Washington Papers, Revolutionary War Series, vol. 19, pp. 765–766.* But his service did not end there. A January 11, 1780 document from Washington's headquarters at Morristown records that Howell was employed by the **Board of War** on a secret "Plan of Intelligence", a covert intelligence role that continued even after his formal resignation. He was, in modern terms, a case officer who had transitioned from the military to civilian intelligence work.
 
 ---
 
@@ -98,13 +98,13 @@ Richard Howell served as one of two delegates elected from **Gloucester County, 
 
 ### Governor of New Jersey (1793–1801)
 
-In 1793, Richard Howell was elected **Governor of New Jersey** — the third person to hold that office under the Constitution. As Governor, he was also Commander in Chief of the New Jersey militia. He was re-elected annually and served **six consecutive terms**, making his one of the longer governorships of the early republic.
+In 1793, Richard Howell was elected **Governor of New Jersey**, the third person to hold that office under the Constitution. As Governor, he was also Commander in Chief of the New Jersey militia. He was re-elected annually and served **six consecutive terms**, making his one of the longer governorships of the early republic.
 
 His tenure spanned the turbulent Federalist era: the rise of partisan politics between Federalists and Democratic-Republicans, the quasi-war with France, and the political battles of the Adams administration.
 
 ### The Whiskey Rebellion (1794)
 
-The most dramatic episode of Howell's governorship came in 1794, when President Washington called on the states to suppress a violent uprising in western Pennsylvania against the federal whiskey excise tax. Governor Howell personally commanded New Jersey's militia contingent — the **"Jersey Blues"** — marching them west. Washington led the combined state forces, assembling the largest army since the Revolution. The rebellion collapsed without major battle, largely because of the overwhelming show of force.
+The most dramatic episode of Howell's governorship came in 1794, when President Washington called on the states to suppress a violent uprising in western Pennsylvania against the federal whiskey excise tax. Governor Howell personally commanded New Jersey's militia contingent, the **"Jersey Blues"**, marching them west. Washington led the combined state forces, assembling the largest army since the Revolution. The rebellion collapsed without major battle, largely because of the overwhelming show of force.
 
 Howell's prompt, capable response demonstrated that this former soldier had lost none of his military instincts in the governor's chair.
 
@@ -120,7 +120,7 @@ Richard Howell was also a man of letters. He wrote patriotic songs, one of which
 
 Richard Howell died on **April 28, 1802**, in Trenton, New Jersey, at the age of 47. He was buried at **Friends Burying Ground**, South Broad Street, Trenton, NJ.
 
-He left behind a wife, nine children, and a record of service that spanned nearly every chapter of the founding era — the Tea Burning, the Revolutionary War, the Constitution, and the early republic. He was soldier, spy, delegate, governor, and poet. And he remains, as his descendants have noted, one of America's often overlooked, unsung heroes.
+He left behind a wife, nine children, and a record of service that spanned nearly every chapter of the founding era, the Tea Burning, the Revolutionary War, the Constitution, and the early republic. He was soldier, spy, delegate, governor, and poet. And he remains, as his descendants have noted, one of America's often overlooked, unsung heroes.
 
 ---
 

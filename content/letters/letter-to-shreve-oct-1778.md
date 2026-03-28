@@ -36,10 +36,10 @@ It appears that Kaziah's parents found out that Richard was courting Kaziah and 
 > but they had been examined by me and endorsed as
 > such under my signature commanding at this
 > post. What business then had they to open
-> the(?)— Curse on their ungentlemanly and fatal
-> curiosity— fatal indeed to my peace and that of a=
+> the(?), Curse on their ungentlemanly and fatal
+> curiosity, fatal indeed to my peace and that of a=
 > nother who's happiness must ever be dearer
-> than my own— The secret of my affections for
+> than my own, The secret of my affections for
 > a particular lady whom you know has transpired
 > perhaps by that means and her parents alarmed
 > at the designs of a soldier snatch the
@@ -49,16 +49,16 @@ It appears that Kaziah's parents found out that Richard was courting Kaziah and 
 [![Letter page 2](/images/Howell_to_Shreve1_p2.png)](/images/Howell_to_Shreve1_p2.png)
 
 > dear girl from me into severe and agonizing
-> confinement— Oh Colo: I am the most wretched
-> man alive— and if I know myself much more
-> so on her account than my own— vengeance
+> confinement, Oh Colo: I am the most wretched
+> man alive, and if I know myself much more
+> so on her account than my own, vengeance
 > on this man who destroyed my peace and hers.
 > Please to appear a stranger to the affair
 > when you go down but observe what you can.
 > Present my affections compliments to
 > Colo: Dayton Ogden Bearly DeHart Rhea
 > Major Bloomfield and Conway and all the officers
-> of my own corps— tell Jack that the person
+> of my own corps, tell Jack that the person
 > is now attacking Miss Becky in favor and I
 > fear she will praise a Coquit in ingenuous to both.
 > Show this all to Jack Peck to whom I send the
@@ -69,7 +69,7 @@ It appears that Kaziah's parents found out that Richard was courting Kaziah and 
 
 *Page 3 (postscript from John Peck)*
 
-[![Letter page 3 — endorsement by John Peck](/images/Howell_to_Shreve1_p3.png)](/images/Howell_to_Shreve1_p3.png)
+[![Letter page 3, endorsement by John Peck](/images/Howell_to_Shreve1_p3.png)](/images/Howell_to_Shreve1_p3.png)
 
 > To Colo: Shreve,
 > I received Schraud last evening and for-
@@ -94,11 +94,11 @@ This is a map of New Jersey at the time of the Revolutionary War. Black Point, w
 
 ## Sources
 
-- *Letter from Richard Howell to Israel Shreve — Howell, Richard (1) page 1.* October 5, 1778. Special Collections, University of Houston Libraries. University of Houston Digital Library. Web. February 21, 2015. http://digital.lib.uh.edu/collection/p15195coll12/item/63/show/60
+- *Letter from Richard Howell to Israel Shreve, Howell, Richard (1) page 1.* October 5, 1778. Special Collections, University of Houston Libraries. University of Houston Digital Library. Web. February 21, 2015. http://digital.lib.uh.edu/collection/p15195coll12/item/63/show/60
 
-- *Letter from Richard Howell to Israel Shreve — Howell, Richard (1) page 2.* October 5, 1778. Special Collections, University of Houston Libraries. University of Houston Digital Library. Web. February 21, 2015. http://digital.lib.uh.edu/collection/p15195coll12/item/63/show/61
+- *Letter from Richard Howell to Israel Shreve, Howell, Richard (1) page 2.* October 5, 1778. Special Collections, University of Houston Libraries. University of Houston Digital Library. Web. February 21, 2015. http://digital.lib.uh.edu/collection/p15195coll12/item/63/show/61
 
-- *Letter from Richard Howell to Israel Shreve — Howell, Richard (1) page 3.* October 5, 1778. Special Collections, University of Houston Libraries. University of Houston Digital Library. Web. February 21, 2015. http://digital.lib.uh.edu/collection/p15195coll12/item/63/show/62
+- *Letter from Richard Howell to Israel Shreve, Howell, Richard (1) page 3.* October 5, 1778. Special Collections, University of Houston Libraries. University of Houston Digital Library. Web. February 21, 2015. http://digital.lib.uh.edu/collection/p15195coll12/item/63/show/62
 
 - *The Writings of George Washington from the Original Manuscript Sources.* George Washington. John Clement Fitzpatrick, ed. Vol. 13. U.S. Govt. Print. Off., Washington, 1931–1944. (UVA Library A 1931 .W36.) http://etext.virginia.edu/etcbin/ot2www-washington?specfile=/texts/english/washington/fitzpatrick/search/gw.o2w&act=surround&offset=15856760&tag=Writings+of+Washington,+Vol.+13:+To+MAJOR+GENERAL+HORATIO+GATES&query=howel&id=gw130036
 
@@ -107,17 +107,17 @@ This is a map of New Jersey at the time of the Revolutionary War. Black Point, w
 <!--
 **Andrew's Research Notes:**
 
-- This letter is a rare and valuable personal document revealing Richard Howell's emotional state during the war and his romantic pursuit of Keziah Burr. She became his wife — the marriage appears to have taken place around 1779 (per WikiTree, Burr-807, marriage date listed as 0000-00-00 + 1779-00-00). The hostility of her Quaker parents to a military officer suitor is historically interesting, as it reflects the real social tensions between Quaker pacifism and the revolutionary cause.
+- This letter is a rare and valuable personal document revealing Richard Howell's emotional state during the war and his romantic pursuit of Keziah Burr. She became his wife, the marriage appears to have taken place around 1779 (per WikiTree, Burr-807, marriage date listed as 0000-00-00 + 1779-00-00). The hostility of her Quaker parents to a military officer suitor is historically interesting, as it reflects the real social tensions between Quaker pacifism and the revolutionary cause.
 
 - The "council" before whom Richard's letters were placed was likely the Monthly Meeting of the Society of Friends (Quakers). Keziah Burr was from a Quaker family. Quaker meeting records for this period (Cumberland or Burlington County Friends Meeting) may contain relevant disciplinary records.
 
-- The strikethrough in the letter ("~~New York~~ Philad.a") is in the original manuscript — Richard crossed out "New York" and wrote "Philad.a" (Philadelphia). This is preserved in the transcription.
+- The strikethrough in the letter ("~~New York~~ Philad.a") is in the original manuscript, Richard crossed out "New York" and wrote "Philad.a" (Philadelphia). This is preserved in the transcription.
 
-- The officers listed — "Dayton Ogden Bearly DeHart Rhea Major Bloomfield and Conway" — are identifiable Revolutionary War officers from New Jersey. Elias Dayton, Matthias Ogden, David Brearley (spelled variously), and Joseph Bloomfield were all prominent NJ officers. Identifying "DeHart," "Rhea," and "Conway" precisely in this context would require cross-referencing 2nd NJ Regiment muster rolls.
+- The officers listed, "Dayton Ogden Bearly DeHart Rhea Major Bloomfield and Conway", are identifiable Revolutionary War officers from New Jersey. Elias Dayton, Matthias Ogden, David Brearley (spelled variously), and Joseph Bloomfield were all prominent NJ officers. Identifying "DeHart," "Rhea," and "Conway" precisely in this context would require cross-referencing 2nd NJ Regiment muster rolls.
 
-- "Jack Peck" — the John Peck who added the postscript endorsement on page 3 — was likely an officer in the same regiment. The October 18 postscript date suggests it was added nearly two weeks after Richard wrote the original letter, indicating the letter sat before being forwarded to Shreve.
+- "Jack Peck", the John Peck who added the postscript endorsement on page 3, was likely an officer in the same regiment. The October 18 postscript date suggests it was added nearly two weeks after Richard wrote the original letter, indicating the letter sat before being forwarded to Shreve.
 
 - "Black Point" in the letter context refers to a location near Sandy Hook (now the Sandy Hook peninsula area), Monmouth County, NJ. Richard's posting there as an observation officer is documented in the [Revolutionary War Correspondence](/letters/revolutionary-war-correspondence/) page.
 
-- The University of Houston Digital Library holds the Israel Shreve Papers (Buxton Collection). The three-page letter is directly accessible at the URLs cited above and should be checked for archival status — the digital.lib.uh.edu URL structure was active as of 2015.
+- The University of Houston Digital Library holds the Israel Shreve Papers (Buxton Collection). The three-page letter is directly accessible at the URLs cited above and should be checked for archival status, the digital.lib.uh.edu URL structure was active as of 2015.
 -->

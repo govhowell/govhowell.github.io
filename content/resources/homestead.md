@@ -10,7 +10,7 @@ tags: ["homestead", "Roadstown", "Cumberland County", "Ebenezer Howell", "Histor
 
 ---
 
-[![Howell Homestead — 1934](/images/111985pv.jpg)](/images/111985pv.jpg)
+[![Howell Homestead, 1934](/images/111985pv.jpg)](/images/111985pv.jpg)
 
 **Ebenezer Howell**, Richard Howell's father, removed from Newark, Delaware in 1769 and 4 years later built this house. Richard and his twin brother Lewis were 19 years old when they moved into the house.
 
@@ -74,7 +74,7 @@ Unprocessed field note material exists for this structure (75).
 Building/structure dates: 1773 initial construction
 
 **SUBJECTS:**
-NEW JERSEY — Cumberland County — Roadstown
+NEW JERSEY, Cumberland County, Roadstown
 
 **COLLECTION:**
 Historic American Buildings Survey (Library of Congress)
@@ -86,7 +86,7 @@ Library of Congress, Prints and Photograph Division, Washington, D.C. 20540 USA
 http://hdl.loc.gov/loc.pnp/hhh.nj0452
 
 **PHOTOGRAPH CAPTION:**
-1. Historic American Buildings Survey — Nathaniel R. Ewan, Photographer — April 24, 1936 — EXTERIOR — SOUTH ELEVATION
+1. Historic American Buildings Survey, Nathaniel R. Ewan, Photographer, April 24, 1936, EXTERIOR, SOUTH ELEVATION
 
 **CONTROL NUMBER:**
 NJ0452
@@ -98,13 +98,13 @@ NJ0452
 
 - The homestead is a critical material artifact connecting the Howell family to the period of colonial resistance. The initials "RH 1773" and "LH" carved by the rear doorway are a direct primary source linking Richard and Lewis Howell to this structure.
 
-- The text as originally published has a line break mid-sentence: "At the time of the homestead survey there were initials 'RH 1773' and 'LH' carved next to the rear d / oorway." This appears to be a formatting artifact in the original WordPress post — the sentence reads correctly when joined and is reproduced correctly here.
+- The text as originally published has a line break mid-sentence: "At the time of the homestead survey there were initials 'RH 1773' and 'LH' carved next to the rear d / oorway." This appears to be a formatting artifact in the original WordPress post, the sentence reads correctly when joined and is reproduced correctly here.
 
 - The HABS survey is a reliable documentation source. The Library of Congress HABS record (NJ0452) is publicly accessible at http://hdl.loc.gov/loc.pnp/hhh.nj0452.
 
 - The homestead photographs (00001r through 00006r) are measured architectural drawings, not photographs. The single HABS photograph (111985pv.jpg) shows the south elevation taken April 24, 1936 by Nathaniel R. Ewan. These files should all be preserved in `/images/`.
 
-- Roadstown is a small community in Stow Creek Township, Cumberland County, NJ. The location is significant for understanding the geography of the Greenwich Tea Party — the burners assembled at the Howell homestead before marching to the Greenwich wharf.
+- Roadstown is a small community in Stow Creek Township, Cumberland County, NJ. The location is significant for understanding the geography of the Greenwich Tea Party, the burners assembled at the Howell homestead before marching to the Greenwich wharf.
 
 - Cross-reference: the [Dr. Lewis Howell](/people/dr-lewis-howell/) page confirms that Richard and Lewis moved into this house in 1773 at age 19, which is consistent with the HABS date of 1773 initial construction.
 -->

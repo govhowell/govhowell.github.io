@@ -36,7 +36,7 @@ William Howell was the son of [Richard Howell](/biography/) and a soldier during
 >
 > I hope William will have returned to New Orleans before this reaches and have received the promotion which I have learned is designed for him. The duty on which he went to Arkansas was important and difficult beyond the trusts usually confined to persons of his age, but I anticipate success and increased consideration for him as the result. I have much confidence in him and look forward to his future career as likely to be a source of pride and pleasure.
 >
-> It always gives me real gratification to receive a letter from you and though I should seem negligent in replying it cannot proceed from a want for either regard or respect or of that affectionate solicitude with which I am ever yours —
+> It always gives me real gratification to receive a letter from you and though I should seem negligent in replying it cannot proceed from a want for either regard or respect or of that affectionate solicitude with which I am ever yours, 
 >
 > **Jeffn. Davis**
 
@@ -51,9 +51,9 @@ William Howell was the son of [Richard Howell](/biography/) and a soldier during
 
 - The letter mentions "William" (Varina's brother) going to Arkansas on military duty and expecting a promotion. This refers to William Burr Howell Jr. His military service record should be located.
 
-- The letter mentions "Mrs. Howell" in poor health — this refers to Margaret Kempe Howell, William's wife and Varina's mother, who was visiting Jefferson Davis in Washington. Her health struggles appear in several Davis family letters of this period.
+- The letter mentions "Mrs. Howell" in poor health, this refers to Margaret Kempe Howell, William's wife and Varina's mother, who was visiting Jefferson Davis in Washington. Her health struggles appear in several Davis family letters of this period.
 
-- William Howell moved to Mississippi likely in the 1820s after the War of 1812. The specific location — the Briars plantation near Natchez — was the family home where Varina and Jefferson Davis were married. See the [Varina Howell Davis](/people/varina-howell-davis/) page for additional family context.
+- William Howell moved to Mississippi likely in the 1820s after the War of 1812. The specific location, the Briars plantation near Natchez, was the family home where Varina and Jefferson Davis were married. See the [Varina Howell Davis](/people/varina-howell-davis/) page for additional family context.
 
 - The WikiTree photo URL used for the portrait (wikitree.com/photo.php) is an external hotlink that may not persist. The image should be downloaded and stored at `/images/william-burr-howell.gif` if copyright permits.
 -->

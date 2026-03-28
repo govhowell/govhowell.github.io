@@ -14,7 +14,7 @@ Letters written before Richard Howell goes to war.
 
 The original WordPress page for Pre-War Letters contained only a single sentence of static content: "Letters written before Richard Howell goes to war." Beyond this, the page relied on a TimelineJS embed (Knight Lab Timeline.js) fed by a Google Sheets spreadsheet, which is now dead. The Google Sheets key was: `0AlXgo-F1C709dC1YNXJPanMxaUpWNl9faWxhVzR3TEE`. The spreadsheet no longer appears to be publicly accessible.
 
-**What belongs here:** This section should contain Richard Howell's letters from the pre-war period — letters written before his enlistment in the Continental Army circa 1776. Known pre-war activities include participation in the Greenwich Tea Burning (December 22, 1774) and service on local committees of correspondence in Cumberland County.
+**What belongs here:** This section should contain Richard Howell's letters from the pre-war period, letters written before his enlistment in the Continental Army circa 1776. Known pre-war activities include participation in the Greenwich Tea Burning (December 22, 1774) and service on local committees of correspondence in Cumberland County.
 
 **To rebuild this section:** The timeline data from the original Google Sheets needs to be recovered (if possible from a cached version or from the site owner's records) and converted to a native Hugo list or timeline shortcode. Each letter should be given its own page with a full transcription in the `/letters/` section.
 

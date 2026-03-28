@@ -5,7 +5,7 @@ draft: false
 tags: ["Revolutionary War", "correspondence", "George Washington", "2nd New Jersey Regiment", "William Maxwell", "Israel Shreve", "Black Point", "Monmouth", "intelligence", "spy network"]
 ---
 
-This page collects excerpts from primary source correspondence — drawn from *The Writings of George Washington* and the George Washington Papers at the Library of Congress — documenting Major Richard Howell's role as an intelligence officer and field commander during the Revolutionary War.
+This page collects excerpts from primary source correspondence, drawn from *The Writings of George Washington* and the George Washington Papers at the Library of Congress, documenting Major Richard Howell's role as an intelligence officer and field commander during the Revolutionary War.
 
 ---
 
@@ -88,7 +88,7 @@ Unfortunately Major Howell's party was less than the fifty men the commander in 
 
 ### George Washington to Benjamin Tallmadge, March 21, 1779
 
-*A letter from George Washington to Benjamin Tallmadge in reference to paying Aaron Woodhull alias Samuel Culper and finding a more expedient route for transmitting intelligence through Col. Shreve or Gen. Maxwell — both of which Richard Howell already was sending intelligence through. This letter is dated 21 March 1779; Richard Howell resigned in April 1779.*
+*A letter from George Washington to Benjamin Tallmadge in reference to paying Aaron Woodhull alias Samuel Culper and finding a more expedient route for transmitting intelligence through Col. Shreve or Gen. Maxwell, both of which Richard Howell already was sending intelligence through. This letter is dated 21 March 1779; Richard Howell resigned in April 1779.*
 
 *The Writings of George Washington from the Original Manuscript Sources, 1745–1799. John C. Fitzpatrick, Editor.*
 
@@ -139,7 +139,7 @@ Unfortunately Major Howell's party was less than the fifty men the commander in 
 >
 > Gentn: On the 8th late in the Afternoon I had the honor to receive Your private Letter of the 3d Inst.[^n46] I sent the next morning for Captain Bowman, but owing to his being out of Camp in quest of provision, I did not see him till yesterday, when I took measures with him for complying with your views. He will march with his Company and with some additional Men I directed to be attached to it to make it compleat, this afternoon or early to morrow morning; also with an Empty Ammunition Waggon. The Captain has received Instructions in the Spirit of the Board's Letter, and an Order on the Commissary at Freehold for a Fortnights provision [. . .]
 
-[^n46]: "The Board have a Plan of Intelligence accompanied with same other Matters of which we will hereafter inform your Excellency and which being communicated to a Committee of Congress has been approved by that Committee. To carry this plan into Execution we have employed **Major Howell late of the 2d Jersey Regt commanded by Col. Shreve.** Major Howell desires that, to facilitate the Measures we have communicated to him, Capn Nathaniel Bowman of that Regiment may be detached with his entire Company of Light Infantry and ordered to proceed with an Ammunition Waggon to Squan by way of Freehold…" — Board of War to Washington, Jan. 3, 1780.
+[^n46]: "The Board have a Plan of Intelligence accompanied with same other Matters of which we will hereafter inform your Excellency and which being communicated to a Committee of Congress has been approved by that Committee. To carry this plan into Execution we have employed **Major Howell late of the 2d Jersey Regt commanded by Col. Shreve.** Major Howell desires that, to facilitate the Measures we have communicated to him, Capn Nathaniel Bowman of that Regiment may be detached with his entire Company of Light Infantry and ordered to proceed with an Ammunition Waggon to Squan by way of Freehold…", Board of War to Washington, Jan. 3, 1780.
 
 ---
 
@@ -178,7 +178,7 @@ Additional sources:
 
 - The reference to the Culper Ring (Samuel Culper = Aaron Woodhull) in the March 21, 1779 letter is notable. It shows that Washington was working to rationalize his intelligence network through the same channels (Maxwell at Elizabeth Town, Shreve at Newark) that Howell had been using. Howell resigned just weeks later in April 1779.
 
-- The statement that Richard Howell was a delegate who ratified the New Jersey constitution in 1787 as a representative of Gloucester County is significant — it documents his political career between the end of the war and his election as Governor. Source: http://www.nj.gov/state/archives/doc1787conventionminutes.html
+- The statement that Richard Howell was a delegate who ratified the New Jersey constitution in 1787 as a representative of Gloucester County is significant, it documents his political career between the end of the war and his election as Governor. Source: http://www.nj.gov/state/archives/doc1787conventionminutes.html
 
-- William Maxwell to Israel Shreve, 24 March 1779 (footnote 30 in the original): "Yours of Yesterday I was favoured with by Major Howell, and agreable to your orders, have given the Major the Command at Spank Town" — Spanktown is now Rahway, NJ. This citation is from the Israel Shreve Papers at Louisiana Tech University (Buxton Collection, Prescott Memorial Library). The same collection contains the [Letter to Shreve, October 1778](/letters/letter-to-shreve-oct-1778/).
+- William Maxwell to Israel Shreve, 24 March 1779 (footnote 30 in the original): "Yours of Yesterday I was favoured with by Major Howell, and agreable to your orders, have given the Major the Command at Spank Town", Spanktown is now Rahway, NJ. This citation is from the Israel Shreve Papers at Louisiana Tech University (Buxton Collection, Prescott Memorial Library). The same collection contains the [Letter to Shreve, October 1778](/letters/letter-to-shreve-oct-1778/).
 -->

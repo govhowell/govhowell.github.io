@@ -1,5 +1,5 @@
 ---
-title: "Major Richard Howell Writes Benedict Arnold — June 20, 1778"
+title: "Major Richard Howell Writes Benedict Arnold, June 20, 1778"
 date: 2015-02-28
 draft: false
 tags: ["letters", "Benedict Arnold", "Battle of Monmouth", "intelligence", "Revolutionary War", "1778", "William Maxwell", "British army movements"]
@@ -7,10 +7,10 @@ tags: ["letters", "Benedict Arnold", "Battle of Monmouth", "intelligence", "Revo
 
 [![Benedict Arnold](/images/Benedict_Arnold_1color-AB.jpeg)](/images/Benedict_Arnold_1color-AB.jpeg)
 
-Below is a letter that Richard Howell wrote on June 20th — just 8 days before the Battle of Monmouth, which was fought on June 28, 1778. It contains vital enemy tactical intelligence for the planning of that battle, to be relayed from Arnold to General Maxwell. Source citations are at the end of this post. It also describes some of the atrocities the British were visiting on the civilians in New Jersey.
+Below is a letter that Richard Howell wrote on June 20th, just 8 days before the Battle of Monmouth, which was fought on June 28, 1778. It contains vital enemy tactical intelligence for the planning of that battle, to be relayed from Arnold to General Maxwell. Source citations are at the end of this post. It also describes some of the atrocities the British were visiting on the civilians in New Jersey.
 
 <!--
-**Historical Significance:** At the time this letter was written, Benedict Arnold was still a celebrated American general — his treason did not occur until 1780. Arnold was then serving as Military Governor of Philadelphia (appointed June 1778). Richard Howell was sending intelligence from behind British lines directly to Arnold in Philadelphia, who then forwarded it to General Washington. This letter is included in *The Papers of George Washington* (Revolutionary War Series, vol. 15) and represents Richard Howell's crucial contribution to American intelligence gathering in the days before Monmouth.
+**Historical Significance:** At the time this letter was written, Benedict Arnold was still a celebrated American general, his treason did not occur until 1780. Arnold was then serving as Military Governor of Philadelphia (appointed June 1778). Richard Howell was sending intelligence from behind British lines directly to Arnold in Philadelphia, who then forwarded it to General Washington. This letter is included in *The Papers of George Washington* (Revolutionary War Series, vol. 15) and represents Richard Howell's crucial contribution to American intelligence gathering in the days before Monmouth.
 -->
 
 ---
@@ -94,19 +94,19 @@ Permalink: http://founders.archives.gov/documents/Washington/03-15-02-0506
 <!--
 **Andrew's Research Notes:**
 
-- This document is one of the most important primary sources on this entire site. It demonstrates that Major Richard Howell was personally conducting reconnaissance of British troop movements — going "round their flank" into British-held territory — just 8 days before the Battle of Monmouth. He identified the three British columns commanded by Leslie, Clinton, and Knyphausen with reasonable accuracy, and reported their routes and strengths directly to the American command chain.
+- This document is one of the most important primary sources on this entire site. It demonstrates that Major Richard Howell was personally conducting reconnaissance of British troop movements, going "round their flank" into British-held territory, just 8 days before the Battle of Monmouth. He identified the three British columns commanded by Leslie, Clinton, and Knyphausen with reasonable accuracy, and reported their routes and strengths directly to the American command chain.
 
-- The letter to Maxwell includes a remarkable detail: "Please to order my Bay immediately round with my Cloaths" — Howell was essentially behind British lines without his horse or baggage, improvising his intelligence mission. This is consistent with the portrait of him as an aggressive and resourceful officer.
+- The letter to Maxwell includes a remarkable detail: "Please to order my Bay immediately round with my Cloaths", Howell was essentially behind British lines without his horse or baggage, improvising his intelligence mission. This is consistent with the portrait of him as an aggressive and resourceful officer.
 
 - The intelligence in these letters (British army moving in three columns toward Mount Holly and Moorestown, with Clinton commanding the largest column of ~5,000 men) was directly relevant to Washington's decision-making for the Battle of Monmouth. The engagement at Monmouth on June 28 targeted exactly this British column during its march across New Jersey.
 
-- Benedict Arnold in June 1778: He had just been appointed Military Governor of Philadelphia when the British evacuated the city (June 18, 1778). He would not begin his treasonous negotiations with the British until late 1778/early 1779 — more than six months after receiving this letter. At the time of this correspondence, Arnold was a trusted American general and Howell's letter was rightly addressed to him as the senior American officer in Philadelphia.
+- Benedict Arnold in June 1778: He had just been appointed Military Governor of Philadelphia when the British evacuated the city (June 18, 1778). He would not begin his treasonous negotiations with the British until late 1778/early 1779, more than six months after receiving this letter. At the time of this correspondence, Arnold was a trusted American general and Howell's letter was rightly addressed to him as the senior American officer in Philadelphia.
 
 - The town names in Howell's letter deserve annotation: "Ayre's Town" = Bordentown area; "Foster Town" = Fostertown, Burlington County; "Moor's-Town" = Moorestown, Burlington County; "Mt Holly" = Mount Holly, Burlington County. These all lie along the British army's route from Philadelphia to New York through New Jersey (the march that would end at the Battle of Monmouth). "Evesham" = Evesham Township, Burlington County.
 
-- "The Barons" in Howell's letter to Arnold likely refers to "the Barrens" — the Pine Barrens of southern New Jersey — which would have complicated movement on that side of the state.
+- "The Barons" in Howell's letter to Arnold likely refers to "the Barrens", the Pine Barrens of southern New Jersey, which would have complicated movement on that side of the state.
 
 - Cross-reference: This letter of June 20, 1778, was written just four days before the letter to Maxwell of June 24 transcribed in [Revolutionary War Correspondence](/letters/revolutionary-war-correspondence/). Together they form a continuous picture of Howell's intelligence activities in the week before Monmouth.
 
-- The image of Benedict Arnold used on this page (Benedict_Arnold_1color-AB.jpeg) needs to be copied to `/images/`. Its copyright status should be verified — it appears to be a historical portrait in the public domain.
+- The image of Benedict Arnold used on this page (Benedict_Arnold_1color-AB.jpeg) needs to be copied to `/images/`. Its copyright status should be verified, it appears to be a historical portrait in the public domain.
 -->

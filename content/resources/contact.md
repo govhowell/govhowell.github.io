@@ -15,7 +15,7 @@ Please reach out if you have any additional information concerning **Richard How
 ---
 
 <!--
-INTERNAL NOTE (Lila) — Contact Form Reconfiguration
+INTERNAL NOTE (Lila), Contact Form Reconfiguration
 The original WordPress page used a Formspree form. This form will not function as-is
 without reconfiguring the Formspree endpoint for the new domain.
 To restore: create a Formspree account, set up a new form for govhowell.org, and replace

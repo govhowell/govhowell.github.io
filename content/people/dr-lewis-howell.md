@@ -28,13 +28,13 @@ Currently it is unknown where Dr. Howell was laid to rest. If anyone reading thi
 <!--
 **Andrew's Research Notes:**
 
-- The original page says Lewis was Surgeon "from December 1774" — this date is notable because the Greenwich Tea Party took place on December 22, 1774. Lewis and Richard had just moved into the Howell Homestead in 1773, and the Tea Burning was one of their earliest acts of colonial resistance. The regiment's formal organization in December 1774 should be cross-verified: the 2nd New Jersey Regiment was formally organized in early 1776, not 1774. The December 1774 date likely refers to an earlier militia or committee enrollment. Needs verification.
+- The original page says Lewis was Surgeon "from December 1774", this date is notable because the Greenwich Tea Party took place on December 22, 1774. Lewis and Richard had just moved into the Howell Homestead in 1773, and the Tea Burning was one of their earliest acts of colonial resistance. The regiment's formal organization in December 1774 should be cross-verified: the 2nd New Jersey Regiment was formally organized in early 1776, not 1774. The December 1774 date likely refers to an earlier militia or committee enrollment. Needs verification.
 
-- The original HTML text says Lewis "preformed" amputations — this appears to be a transcription error for "performed." Corrected here.
+- The original HTML text says Lewis "preformed" amputations, this appears to be a transcription error for "performed." Corrected here.
 
 - Ebenezer Elmer served as Surgeon's Mate to the 2nd New Jersey and kept a detailed diary of his service, which is an important primary source for Lewis Howell's medical work. Elmer later became a physician and congressman. His diary is held at the New Jersey Historical Society and should be cited.
 
-- "Blackhorse Tavern" — there were several taverns by this name in New Jersey. The one referenced here is likely in Shrewsbury Township, Monmouth County, near the route taken after Monmouth. Location should be verified against Elmer's diary entries from June 1778.
+- "Blackhorse Tavern", there were several taverns by this name in New Jersey. The one referenced here is likely in Shrewsbury Township, Monmouth County, near the route taken after Monmouth. Location should be verified against Elmer's diary entries from June 1778.
 
 - Lewis Howell's burial place is genuinely unknown. The Howell Homestead page notes his initials "LH" were carved next to the rear doorway of the family home, suggesting he was close to the family property in Roadstown. Worth checking Cumberland County records and the Quaker meeting records for any burial entries.
 -->

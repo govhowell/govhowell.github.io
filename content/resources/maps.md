@@ -13,7 +13,7 @@ Here are maps covering the period of Richard Howell's life and the American Revo
 
 | Map | Caption |
 |-----|---------|
-| [![Newark De. 1736](/images/Ebenezer_Howell_Map_Newark_De.png)](/images/Ebenezer_Howell_Map_Newark_De.png) | **Newark, Delaware — 1736** — Map of Newark, Delaware at the time Ebenezer Howell's family lived there before removing to New Jersey in 1769. |
+| [![Newark De. 1736](/images/Ebenezer_Howell_Map_Newark_De.png)](/images/Ebenezer_Howell_Map_Newark_De.png) | **Newark, Delaware, 1736**, Map of Newark, Delaware at the time Ebenezer Howell's family lived there before removing to New Jersey in 1769. |
 
 ---
 
@@ -21,7 +21,7 @@ Here are maps covering the period of Richard Howell's life and the American Revo
 
 | Map | Caption |
 |-----|---------|
-| [![American Colonies](/images/colonies.jpg)](/images/colonies.jpg) | **American Colonies** — Map of the original American colonies during the colonial period. |
+| [![American Colonies](/images/colonies.jpg)](/images/colonies.jpg) | **American Colonies**, Map of the original American colonies during the colonial period. |
 
 ---
 
@@ -29,15 +29,15 @@ Here are maps covering the period of Richard Howell's life and the American Revo
 
 | Map | Caption |
 |-----|---------|
-| [![New Jersey Battles](/images/RevolutionaryBattles.gif)](/images/RevolutionaryBattles.gif) | **New Jersey Revolutionary War Battles (1974 map)** — Map showing the locations of Revolutionary War battles in New Jersey. Richard Howell participated in several of these engagements. |
+| [![New Jersey Battles](/images/RevolutionaryBattles.gif)](/images/RevolutionaryBattles.gif) | **New Jersey Revolutionary War Battles (1974 map)**, Map showing the locations of Revolutionary War battles in New Jersey. Richard Howell participated in several of these engagements. |
 | [![Plan map for the attack on Trenton NJ](/images/operations_77.jpg)](/images/operations_77.jpg) | **Plan Map for the Attack on Trenton, NJ** |
-| [![The Forage War 1777](/images/newjerseymap.jpg)](/images/newjerseymap.jpg) | **The Forage War, 1777** — The Forage War was a series of skirmishes in New Jersey in early 1777. |
-| [![New Jersey and Long Island](/images/Map-of-New-Jersey-during-rev-war.jpg)](/images/Map-of-New-Jersey-during-rev-war.jpg) | **New Jersey and Long Island** — Map of New Jersey and Long Island during the Revolutionary War. |
-| [![Revolution in New Jersey](/images/map-of-new-jersey-Rev-sites.jpg)](/images/map-of-new-jersey-Rev-sites.jpg) | **Revolution in New Jersey** — Map of Revolutionary War sites in New Jersey. |
-| [![Battle of Monmouth](/images/Battle_of_Monmouth.Dean_.USMA_.edu_.history.gif)](/images/Battle_of_Monmouth.Dean_.USMA_.edu_.history.gif) | **Battle of Monmouth** (USMA) — Tactical map of the Battle of Monmouth, June 28, 1778. Richard Howell fought at Monmouth; his twin brother [Dr. Lewis Howell](/people/dr-lewis-howell/) died of illness seven days after this battle. |
-| [![Monmouth Map](/images/Monmouth-map.jpg)](/images/Monmouth-map.jpg) | **Monmouth Map** — Vintage map of Monmouth County, New Jersey. |
-| [![1777 Battle of Germantown — Montresor](/images/1777montresor.jpg)](/images/1777montresor.jpg) | **1777 Battle of Germantown — Montresor** — Map by engineer John Montresor of the Battle of Germantown, October 4, 1777. |
-| [![1777–1778 Valley Forge Encampment](/images/1777valleyforgecomp.jpg)](/images/1777valleyforgecomp.jpg) | **1777–1778 Valley Forge Encampment** — Map of the Valley Forge winter encampment. Dr. Lewis Howell purchased blankets with his own money for his regiment during this encampment. |
+| [![The Forage War 1777](/images/newjerseymap.jpg)](/images/newjerseymap.jpg) | **The Forage War, 1777**, The Forage War was a series of skirmishes in New Jersey in early 1777. |
+| [![New Jersey and Long Island](/images/Map-of-New-Jersey-during-rev-war.jpg)](/images/Map-of-New-Jersey-during-rev-war.jpg) | **New Jersey and Long Island**, Map of New Jersey and Long Island during the Revolutionary War. |
+| [![Revolution in New Jersey](/images/map-of-new-jersey-Rev-sites.jpg)](/images/map-of-new-jersey-Rev-sites.jpg) | **Revolution in New Jersey**, Map of Revolutionary War sites in New Jersey. |
+| [![Battle of Monmouth](/images/Battle_of_Monmouth.Dean_.USMA_.edu_.history.gif)](/images/Battle_of_Monmouth.Dean_.USMA_.edu_.history.gif) | **Battle of Monmouth** (USMA), Tactical map of the Battle of Monmouth, June 28, 1778. Richard Howell fought at Monmouth; his twin brother [Dr. Lewis Howell](/people/dr-lewis-howell/) died of illness seven days after this battle. |
+| [![Monmouth Map](/images/Monmouth-map.jpg)](/images/Monmouth-map.jpg) | **Monmouth Map**, Vintage map of Monmouth County, New Jersey. |
+| [![1777 Battle of Germantown, Montresor](/images/1777montresor.jpg)](/images/1777montresor.jpg) | **1777 Battle of Germantown, Montresor**, Map by engineer John Montresor of the Battle of Germantown, October 4, 1777. |
+| [![1777–1778 Valley Forge Encampment](/images/1777valleyforgecomp.jpg)](/images/1777valleyforgecomp.jpg) | **1777–1778 Valley Forge Encampment**, Map of the Valley Forge winter encampment. Dr. Lewis Howell purchased blankets with his own money for his regiment during this encampment. |
 | [![Battle of Brandywine](/images/Battle-of-Brandywine-Map.jpg)](/images/Battle-of-Brandywine-Map.jpg) | **Battle of Brandywine** |
 | [![Path towards American Independence](/images/the-path-towards-american-independence0.gif)](/images/the-path-towards-american-independence0.gif) | **Path towards American Independence** |
 | [![Battle of Brandywine (USMA)](/images/battle_of_brandywine-usma-edu-history-1.gif)](/images/battle_of_brandywine-usma-edu-history-1.gif) | **Battle of Brandywine** (USMA) |
@@ -57,10 +57,10 @@ Here are maps covering the period of Richard Howell's life and the American Revo
 
 | Map | Caption |
 |-----|---------|
-| [![Radnor 1627](/images/Radnor-1627.jpg)](/images/Radnor-1627.jpg) | **Radnor (in Wales), 1627** — Map of Radnorshire, Wales. The Howell family traces its origins to Wales. See the [Howell Family History](/family/howell-family-history/) for the Welsh genealogy. |
+| [![Radnor 1627](/images/Radnor-1627.jpg)](/images/Radnor-1627.jpg) | **Radnor (in Wales), 1627**, Map of Radnorshire, Wales. The Howell family traces its origins to Wales. See the [Howell Family History](/family/howell-family-history/) for the Welsh genealogy. |
 | [![Earliest Known Map of Wales](/images/Earliest-known-map-of-Wales.jpg)](/images/Earliest-known-map-of-Wales.jpg) | **Earliest Known Map of Wales** |
 | [![Britain AD 500](/images/Brittain-ad-500.jpg)](/images/Brittain-ad-500.jpg) | **Britain, AD 500** |
-| [![Roman Era Wales Roads](/images/Roman.Wales_.Forts_.Fortlets.Roads_.jpg)](/images/Roman.Wales_.Forts_.Fortlets.Roads_.jpg) | **Roman Era Wales — Forts, Fortlets, Roads, c. 75 – late 300s** |
+| [![Roman Era Wales Roads](/images/Roman.Wales_.Forts_.Fortlets.Roads_.jpg)](/images/Roman.Wales_.Forts_.Fortlets.Roads_.jpg) | **Roman Era Wales, Forts, Fortlets, Roads, c. 75 – late 300s** |
 
 ---
 
@@ -69,7 +69,7 @@ Here are maps covering the period of Richard Howell's life and the American Revo
 
 - All map images need to be copied from `/wp-content/uploads/2015/02/` and `/wp-content/uploads/2015/03/` to `/images/` before this page will display correctly.
 
-- The "New Jersey Revolutionary War Battles" map is captioned "1974 map" on the [revolutionary-war-correspondence](/letters/revolutionary-war-correspondence/) page. This is likely a NJDEP or state historical commission map from 1974 — its precise origin and copyright status should be verified.
+- The "New Jersey Revolutionary War Battles" map is captioned "1974 map" on the [revolutionary-war-correspondence](/letters/revolutionary-war-correspondence/) page. This is likely a NJDEP or state historical commission map from 1974, its precise origin and copyright status should be verified.
 
 - The USMA maps (Battle of Monmouth, Battle of Brandywine) are from the United States Military Academy history department and are public domain educational resources.
 
