@@ -67,7 +67,9 @@ The regiment wintered at Valley Forge with Washington's main army in 1777–1778
 
 ### The Death of Lewis Howell
 
-Richard's twin brother [Dr. Lewis B. Howell](/people/dr-lewis-howell/) died in June 1778, from illness contracted during the campaign. He was 23 years old. The exact date of his death remains under research. The two brothers had been inseparable — born together, raised together, gone to war together. Lewis's death was among the most personal losses Richard endured in the conflict.
+Richard's twin brother [Dr. Lewis B. Howell](/people/dr-lewis-howell/) fell ill with fever during the Monmouth campaign. He was sick at the time of the Battle of Monmouth (June 28, 1778) and resigned from the army on July 5, 1778. He died shortly thereafter at a tavern near Monmouth Court House. He was 23 years old. The two brothers had been inseparable — born together, raised together, gone to war together. Lewis's death was among the most personal losses Richard endured in the conflict.
+
+> *Source: Footnotes to "To George Washington from Major Richard Howell, 7 April 1779," Founders Online, National Archives. Washington Papers, Revolutionary War Series, vol. 19, ed. Philander D. Chase and William M. Ferraro (University of Virginia Press, 2009), pp. 765–766.*
 
 ### Intelligence Officer for General Washington
 
@@ -82,7 +84,9 @@ Washington's headquarters documented Howell's intelligence role in a series of l
 
 ### Resignation and Continued Service
 
-In **April 1779**, Richard Howell resigned his commission from the 2nd New Jersey Regiment. But his service did not end there. A January 11, 1780 document from Washington's headquarters at Morristown records that Howell was employed by the **Board of War** on a secret "Plan of Intelligence" — a covert intelligence role that continued even after his formal resignation. He was, in modern terms, a case officer who had transitioned from the military to civilian intelligence work.
+In **April 1779**, Richard Howell resigned his commission from the 2nd New Jersey Regiment, citing illness in the army, family obligations, the loss of Lewis, and the need to return to law practice.
+
+> *Source: "To George Washington from Major Richard Howell, 7 April 1779," Founders Online, National Archives (http://founders.archives.gov/documents/Washington/03-19-02-0717). Washington Papers, Revolutionary War Series, vol. 19, pp. 765–766.* But his service did not end there. A January 11, 1780 document from Washington's headquarters at Morristown records that Howell was employed by the **Board of War** on a secret "Plan of Intelligence" — a covert intelligence role that continued even after his formal resignation. He was, in modern terms, a case officer who had transitioned from the military to civilian intelligence work.
 
 ---
 
@@ -108,7 +112,7 @@ Howell's prompt, capable response demonstrated that this former soldier had lost
 
 ## The Poet
 
-Richard Howell was also a man of letters. He wrote patriotic songs, one of which was performed for **General Washington** at a reception in Trenton, New Jersey, as Washington traveled from Mount Vernon to New York City for his inauguration as the first President of the United States in April 1789. The identity of the specific song remains an open research question.
+Richard Howell was also a man of letters. He wrote patriotic songs, one of which was performed for **General Washington** at a reception in Trenton, New Jersey, as Washington traveled from Mount Vernon to New York City for his inauguration as the first President of the United States in April 1789. The identity of the specific song remains an open research question, though Howell's authorship of a welcoming ode for Washington at Trenton is documented in *The Papers of George Washington, Presidential Series*, vol. 2, p. 109.
 
 ---
 
