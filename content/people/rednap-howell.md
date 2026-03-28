@@ -137,27 +137,27 @@ North Carolina recognized his legacy with **Historical Marker K-64**, erected in
 
 ---
 
-[^1]: *Appleton's Encyclopaedia of American Biography* (1888); also John Haywood, *Tryon in North Carolina* (both cited in Ashe 1906).
-[^2]: L. Q. C. Elmer, *Reminiscences of New Jersey*; the account was confirmed as more authoritative by William Nelson, then Secretary of the New Jersey Historical Society (cited in Ashe 1906).
-[^3]: *5 American Ancestry*, p. 191 (cited in Ashe 1906).
-[^4]: Samuel A. Ashe, *Biographical History of North Carolina from Colonial Times to Present*, Vol. III (Greensboro: Charles L. Van Noppen, 1906).
-[^5]: E. W. Caruthers, *Life of Caldwell* (cited in Ashe 1906); *Colonial Records of North Carolina*, Vol. 7.
-[^6]: William Few, autobiography (cited in Ashe 1906).
-[^7]: Ashe (1906).
-[^8]: *Colonial Records of North Carolina*, Vol. 7, pp. 731, 733 (cited in Ashe 1906).
-[^9]: Ashe (1906).
-[^10]: Herman Husbands, account of the Brunswick meeting (cited in Ashe 1906).
-[^11]: Ashe (1906). Approximately forty ballads are referenced; only three fragments are known to have survived.
-[^12]: *Colonial Records of North Carolina*, Vol. 7, pp. 802, 820 (cited in Ashe 1906).
-[^13]: *Colonial Records of North Carolina*, Vol. 7, p. 851 (cited in Ashe 1906).
-[^14]: Ashe (1906).
-[^15]: *Colonial Records of North Carolina*, Vol. 7, pp. 758–759; Ashe (1906).
-[^16]: Ashe (1906).
-[^17]: *Colonial Records of North Carolina*, Vol. 8, p. 537; Ashe (1906).
-[^18]: Ashe (1906).
-[^19]: Governor Josiah Martin to the Earl of Dartmouth, May 18, 1775, *Colonial Records of North Carolina*.
-[^20]: Ashe (1906).
-[^21]: North Carolina Office of Archives and History, Historical Marker K-64, Rednap Howell, Randolph County, North Carolina.
+[^1]: *Appletons' Cyclopaedia of American Biography*, 6 vols. (New York: D. Appleton, 1887–1889), [Internet Archive](https://archive.org/details/AppletonsCyclopediaOfAmericanBiographyVol.1); also John Haywood, *Tryon in North Carolina* (both cited in Ashe 1906).
+[^2]: L. Q. C. Elmer, *The Constitution and Government of the Province and State of New Jersey* (Newark, 1872), [Internet Archive](https://archive.org/details/constitutiongove00elme). The account was confirmed as more authoritative by William Nelson, then Secretary of the New Jersey Historical Society (cited in Ashe 1906).
+[^3]: *American Ancestry*, Vol. 5 (Albany: Joel Munsell's Sons, 1890), p. 191, [Internet Archive](https://archive.org/details/americanancestry005hugh).
+[^4]: Samuel A. Ashe, *Biographical History of North Carolina from Colonial Times to Present*, Vol. III (Greensboro: Charles L. Van Noppen, 1906), [Internet Archive](https://archive.org/details/biographical-history-of-north-carolina-volume-iii-1906).
+[^5]: E. W. Caruthers, *A Sketch of the Life and Character of the Rev. David Caldwell* (Greensborough, NC, 1842), [Internet Archive](https://archive.org/details/sketchoflifechar00car); *Colonial Records of North Carolina*, Vol. 7, [Documenting the American South, UNC](https://docsouth.unc.edu/csr/index.php/volumes/volume_07).
+[^6]: William Few, autobiography (manuscript held at Hargrett Rare Book and Manuscript Library, University of Georgia), [Digital Library of Georgia](https://dlg.usg.edu/record/dlg_zlna_krc083); also published in *Magazine of American History*, Vol. 7 (November 1881), pp. 343–358. Cited in Ashe (1906).
+[^7]: Ashe (1906), [Internet Archive](https://archive.org/details/biographical-history-of-north-carolina-volume-iii-1906).
+[^8]: *Colonial Records of North Carolina*, Vol. 7, pp. 731, 733, [Documenting the American South, UNC](https://docsouth.unc.edu/csr/index.php/volumes/volume_07).
+[^9]: Ashe (1906), [Internet Archive](https://archive.org/details/biographical-history-of-north-carolina-volume-iii-1906).
+[^10]: Herman Husbands, account of the Brunswick meeting, cited in Ashe (1906), [Internet Archive](https://archive.org/details/biographical-history-of-north-carolina-volume-iii-1906).
+[^11]: Ashe (1906), [Internet Archive](https://archive.org/details/biographical-history-of-north-carolina-volume-iii-1906). Approximately forty ballads are referenced; only three fragments are known to have survived.
+[^12]: *Colonial Records of North Carolina*, Vol. 7, pp. 802, 820, [Documenting the American South, UNC](https://docsouth.unc.edu/csr/index.php/volumes/volume_07).
+[^13]: *Colonial Records of North Carolina*, Vol. 7, p. 851, [Documenting the American South, UNC](https://docsouth.unc.edu/csr/index.php/volumes/volume_07).
+[^14]: Ashe (1906), [Internet Archive](https://archive.org/details/biographical-history-of-north-carolina-volume-iii-1906).
+[^15]: *Colonial Records of North Carolina*, Vol. 7, pp. 758–759, [Documenting the American South, UNC](https://docsouth.unc.edu/csr/index.php/volumes/volume_07); Ashe (1906), [Internet Archive](https://archive.org/details/biographical-history-of-north-carolina-volume-iii-1906).
+[^16]: Ashe (1906), [Internet Archive](https://archive.org/details/biographical-history-of-north-carolina-volume-iii-1906).
+[^17]: *Colonial Records of North Carolina*, Vol. 8, p. 537, [Documenting the American South, UNC](https://docsouth.unc.edu/csr/index.php/volumes/volume_08); Ashe (1906), [Internet Archive](https://archive.org/details/biographical-history-of-north-carolina-volume-iii-1906).
+[^18]: Ashe (1906), [Internet Archive](https://archive.org/details/biographical-history-of-north-carolina-volume-iii-1906).
+[^19]: Governor Josiah Martin to the Earl of Dartmouth, May 18, 1775, *Colonial Records of North Carolina*, Vol. 9, [Documenting the American South, UNC](https://docsouth.unc.edu/csr/index.php/document/csr09-0424).
+[^20]: Ashe (1906), [Internet Archive](https://archive.org/details/biographical-history-of-north-carolina-volume-iii-1906).
+[^21]: North Carolina Office of Archives and History, Historical Marker K-64, Rednap Howell, Randolph County, North Carolina, [NC Highway Historical Marker Program](https://ncmarkers.com/Markers.aspx?MarkerId=K-64).
 
 ---
 
