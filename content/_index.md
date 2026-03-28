@@ -6,7 +6,7 @@ draft: false
 
 {{< site-banner >}}
 
-# Richard Howell
+# Gov. Richard Howell
 ## 1754 – 1802
 
 **Major in the 2nd New Jersey Brigade of the Continental Army (1776–1779)**
