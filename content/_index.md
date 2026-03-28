@@ -71,10 +71,11 @@ He is one of America's often overlooked, unsung heroes.
 | [Biography](/biography/) | Richard Howell's military career, governorship, and legacy |
 | [Timelines](/timelines/) | Pre-war, Revolutionary War, and post-war chronologies |
 | [Letters](/letters/) | Primary source correspondence, letters to and from Richard Howell |
-| [Historical Events](/events/) | The Greenwich Tea Burning, 2nd NJ Regiment, and more |
+| [Events](/events/) | The Greenwich Tea Burning, 2nd NJ Regiment, and more |
+| [People](/people/) | Key figures, Rednap Howell, Dr. Lewis Howell, Varina Howell Davis, and others |
 | [Family](/family/) | Howell family history and genealogy |
-| [People](/people/) | Key figures, Dr. Lewis Howell, Varina Howell Davis, and others |
 | [Resources](/resources/) | Maps, documents, homestead, and research materials |
+| [Contact](/resources/contact/) | Get in touch with the research team |
 
 ---
 

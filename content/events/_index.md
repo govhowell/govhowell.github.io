@@ -1,5 +1,5 @@
 ---
-title: "Historical Events"
+title: "Events"
 draft: false
 ---
 
