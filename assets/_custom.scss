@@ -113,6 +113,11 @@ a {
     color: $parchment-bg;
   }
 
+  // SVG icons are <img> tags — CSS color has no effect, must use filter
+  img.book-icon {
+    filter: brightness(0) invert(1); // render white on dark header background
+  }
+
   a {
     color: $parchment-bg;
 
