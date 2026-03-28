@@ -2,6 +2,9 @@ public/
 resources/_gen/
 .hugo_build.lock
 
+# Internal project management — local only
+Project/
+
 # macOS
 .DS_Store
 
