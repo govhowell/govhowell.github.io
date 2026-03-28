@@ -6,7 +6,7 @@ draft: false
 
 {{< site-banner >}}
 
-<h1><span class="title-mobile">Gov. Richard Howell</span><span class="title-desktop">Governor Richard Howell</span></h1>
+{{< page-title mobile="Gov. Richard Howell" desktop="Governor Richard Howell" >}}
 ## 1754 – 1802
 
 **Major in the 2nd New Jersey Brigade of the Continental Army (1776–1779)**
