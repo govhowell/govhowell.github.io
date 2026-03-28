@@ -133,9 +133,9 @@ There is a quiet symmetry in the ending. Richard Howell died in Trenton in 1802,
 
 North Carolina recognized his legacy with **Historical Marker K-64**, erected in his honor near the area where he lived and organized.
 
-![North Carolina Historical Marker K-64, Rednap Howell](/images/rednap-howell-marker-k64.jpg)
+![North Carolina Historical Marker K-64, Rednap Howell](/images/rednap-howell-marker-k64.png)
 
-*NC Historical Marker K-64, Randolph County, North Carolina. Photo: Mike Wintermantel, Pittsburgh, Pennsylvania (March 23, 2024).*
+*NC Historical Marker K-64, Randolph County, North Carolina. Copyright 2026, W. Aaron Henderson (March 28, 2026).*
 
 ---
 
