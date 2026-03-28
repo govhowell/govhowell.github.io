@@ -352,6 +352,15 @@ a {
   font-style: italic;
 }
 
+// -- Responsive page title --
+.title-mobile { display: none; }
+.title-desktop { display: inline; }
+
+@media (max-width: 768px) {
+  .title-mobile { display: inline; }
+  .title-desktop { display: none; }
+}
+
 // -- Footer --
 footer {
   border-top: 1px solid $parchment-border;
