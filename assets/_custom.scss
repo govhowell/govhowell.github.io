@@ -352,6 +352,52 @@ a {
   font-style: italic;
 }
 
+// -- Footnotes --
+// Hugo/goldmark renders footnotes inside <section class="footnotes">
+.footnotes {
+  margin-top: 3em;
+  padding-top: 1em;
+  border-top: 1px solid $parchment-border;
+  font-size: 0.82rem;
+  color: $ink-mid;
+  font-family: 'Libre Baskerville', Georgia, serif;
+  line-height: 1.7;
+
+  ol {
+    padding-left: 1.5em;
+  }
+
+  li {
+    margin-bottom: 0.4em;
+  }
+
+  // Back-link arrow (↩) that returns reader to the citation in text
+  .footnote-backref {
+    margin-left: 0.3em;
+    color: $accent-red;
+    text-decoration: none;
+    font-style: normal;
+
+    &:hover {
+      color: darken($accent-red, 10%);
+    }
+  }
+}
+
+// Inline superscript footnote markers in the text
+.footnote-ref a {
+  color: $accent-red;
+  font-size: 0.75em;
+  vertical-align: super;
+  text-decoration: none;
+  font-weight: bold;
+
+  &:hover {
+    color: darken($accent-red, 10%);
+    text-decoration: underline;
+  }
+}
+
 // -- Responsive page title --
 .title-mobile { display: none; }
 .title-desktop { display: inline; }
