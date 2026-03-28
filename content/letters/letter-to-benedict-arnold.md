@@ -7,7 +7,7 @@ tags: ["letters", "Benedict Arnold", "Battle of Monmouth", "intelligence", "Revo
 
 [![Benedict Arnold](/images/Benedict_Arnold_1color-AB.jpeg)](/images/Benedict_Arnold_1color-AB.jpeg)
 
-Below is a letter that Richard Howell wrote on June 20th, just 8 days before the Battle of Monmouth, which was fought on June 28, 1778. It contains vital enemy tactical intelligence for the planning of that battle, to be relayed from Arnold to General Maxwell. Source citations are at the end of this post. It also describes some of the atrocities the British were visiting on the civilians in New Jersey.
+Below is a letter that Richard Howell wrote on June 20th, just 8 days before the Battle of Monmouth, which was fought on June 28, 1778.[^2] It contains vital enemy tactical intelligence for the planning of that battle, to be relayed from Arnold[^3] to General Maxwell.[^4] Source citations are at the end of this post. It also describes some of the atrocities the British were visiting on the civilians in New Jersey.
 
 <!--
 **Historical Significance:** At the time this letter was written, Benedict Arnold was still a celebrated American general, his treason did not occur until 1780. Arnold was then serving as Military Governor of Philadelphia (appointed June 1778). Richard Howell was sending intelligence from behind British lines directly to Arnold in Philadelphia, who then forwarded it to General Washington. This letter is included in *The Papers of George Washington* (Revolutionary War Series, vol. 15) and represents Richard Howell's crucial contribution to American intelligence gathering in the days before Monmouth.
@@ -17,7 +17,7 @@ Below is a letter that Richard Howell wrote on June 20th, just 8 days before the
 
 ## The Letter
 
-*The following is the full text of the document as preserved in the Founders Online / National Archives database, including the enclosing letter from Benedict Arnold to George Washington, and the enclosed letters from Major Richard Howell.*
+*The following is the full text of the document as preserved in the Founders Online / National Archives database, including the enclosing letter from Benedict Arnold to George Washington, and the enclosed letters from Major Richard Howell.[^5]*
 
 ---
 
@@ -73,7 +73,7 @@ Arnold forwarded Howell's letter to Maxwell under the following note dated 21 Ju
 
 ## Source Citation
 
-Permalink: http://founders.archives.gov/documents/Washington/03-15-02-0506
+Permalink: https://founders.archives.gov/documents/Washington/03-15-02-0506
 
 *Note: The annotations to this document, and any other modern editorial content, are copyright © The Rector and Visitors of the University of Virginia. All rights reserved.*
 
@@ -87,7 +87,17 @@ Permalink: http://founders.archives.gov/documents/Washington/03-15-02-0506
 
 **Date:** 21 June 1778
 
-**Cite as:** "To George Washington from Major General Benedict Arnold, 21 June 1778," *Founders Online*, National Archives (http://founders.archives.gov/documents/Washington/03-15-02-0506 [last update: 2014-12-01]). Source: *The Papers of George Washington, Revolutionary War Series*, vol. 15, May–June 1778, ed. Edward G. Lengel. Charlottesville: University of Virginia Press, 2006, pp. 485–486.
+**Cite as:** "To George Washington from Major General Benedict Arnold, 21 June 1778," *Founders Online*, National Archives (https://founders.archives.gov/documents/Washington/03-15-02-0506). Source: *The Papers of George Washington, Revolutionary War Series*, vol. 15, May–June 1778, ed. Edward G. Lengel. Charlottesville: University of Virginia Press, 2006, pp. 485–486.
+
+---
+
+[^2]: The Battle of Monmouth was fought on June 28, 1778, in Monmouth County, New Jersey. It was one of the largest battles of the Revolutionary War and the last major engagement in the northern theater. Washington's ability to intercept the British column depended on timely tactical intelligence of the kind Howell provided.
+
+[^3]: Benedict Arnold (1741–1801) was appointed Military Governor of Philadelphia on June 19, 1778 — the day after the British evacuated the city. At the time of this letter he was a celebrated American general. His treasonous negotiations with the British did not begin until late 1778 and were not exposed until September 1780.
+
+[^4]: Brigadier General William Maxwell (c. 1733–1796) commanded the New Jersey Brigade. His headquarters at Elizabethtown, N.J., made him a key node in Washington's intelligence chain from Monmouth County and later from Howell's observation post at Black Point.
+
+[^5]: "To George Washington from Major General Benedict Arnold, 21 June 1778," *Founders Online*, National Archives, https://founders.archives.gov/documents/Washington/03-15-02-0506. Published in Edward G. Lengel, ed., *The Papers of George Washington: Revolutionary War Series*, vol. 15, May–June 1778 (Charlottesville: University of Virginia Press, 2006), pp. 485–486.
 
 ---
 

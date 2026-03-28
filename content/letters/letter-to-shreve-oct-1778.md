@@ -5,13 +5,15 @@ draft: false
 tags: ["letters", "Israel Shreve", "Keziah Burr", "Black Point", "Revolutionary War", "1778", "personal correspondence"]
 ---
 
-Below is a transcript of a letter from Richard Howell to his friend, and Commanding Officer, Colonel Israel Shreve about some personal letters Richard wrote to his future wife, Kaziah Burr, that were left unattended by the mail carrier and opened by an unknown individual. The letters were then presented to "the council," presumably the Quaker Council of Elders. This greatly incensed Richard. It is known that Kaziah was a Quaker. Quakers, being anti-war, generally discouraged their daughters from being involved with military officers.
+Below is a transcript of a letter from Richard Howell to his friend, and Commanding Officer, Colonel Israel Shreve[^1] about some personal letters Richard wrote to his future wife, Kaziah Burr,[^2] that were left unattended by the mail carrier and opened by an unknown individual. The letters were then presented to "the council," presumably the Quaker Council of Elders.[^3] This greatly incensed Richard. It is known that Kaziah was a Quaker. Quakers, being anti-war, generally discouraged their daughters from being involved with military officers.
 
-It appears that Kaziah's parents found out that Richard was courting Kaziah and took steps to place her in "severe and agonizing confinement," to keep her from seeing Richard. Richard was much distressed by his separation from Kaziah, but wanted Israel Shreve to keep what he knew about this situation to himself. The letter requested Shreve to "appear a stranger to the affair when you go down but observe what you can." Richard was stationed at "[Black Point](http://etext.virginia.edu/etcbin/ot2www-washington?specfile=/texts/english/washington/fitzpatrick/search/gw.o2w&act=surround&offset=15856760&tag=Writings+of+Washington,+Vol.+13:+To+MAJOR+GENERAL+HORATIO+GATES&query=howel&id=gw130036)" New Jersey near Sandy Hook, at the time he wrote this letter.
+It appears that Kaziah's parents found out that Richard was courting Kaziah and took steps to place her in "severe and agonizing confinement," to keep her from seeing Richard. Richard was much distressed by his separation from Kaziah, but wanted Israel Shreve to keep what he knew about this situation to himself. The letter requested Shreve to "appear a stranger to the affair when you go down but observe what you can." Richard was stationed at Black Point,[^4] New Jersey near Sandy Hook, at the time he wrote this letter.
 
 ---
 
 ## The Letter
+
+*Source: Letter from Richard Howell to Israel Shreve, October 5, 1778. Israel Shreve Revolutionary War Letters, 1768–1894, Special Collections, University of Houston Libraries. University of Houston Digital Library.[^5]*
 
 *Page 1*
 
@@ -94,13 +96,15 @@ This is a map of New Jersey at the time of the Revolutionary War. Black Point, w
 
 ## Sources
 
-- *Letter from Richard Howell to Israel Shreve, Howell, Richard (1) page 1.* October 5, 1778. Special Collections, University of Houston Libraries. University of Houston Digital Library. Web. February 21, 2015. http://digital.lib.uh.edu/collection/p15195coll12/item/63/show/60
+[^1]: Colonel Israel Shreve (1739–1799) commanded the 2nd New Jersey Regiment from 1777 until his retirement in January 1781. The Israel Shreve Revolutionary War Letters, 1768–1894, are held by Special Collections, University of Houston Libraries, and are digitized at https://digital.lib.uh.edu/collection/p15195coll12.
 
-- *Letter from Richard Howell to Israel Shreve, Howell, Richard (1) page 2.* October 5, 1778. Special Collections, University of Houston Libraries. University of Houston Digital Library. Web. February 21, 2015. http://digital.lib.uh.edu/collection/p15195coll12/item/63/show/61
+[^2]: Keziah Burr (c. 1756–1824) was from a Quaker family, likely of Burlington or Cumberland County, New Jersey. She married Richard Howell circa 1779. Her Quaker background explains her parents' hostility toward a military suitor.
 
-- *Letter from Richard Howell to Israel Shreve, Howell, Richard (1) page 3.* October 5, 1778. Special Collections, University of Houston Libraries. University of Houston Digital Library. Web. February 21, 2015. http://digital.lib.uh.edu/collection/p15195coll12/item/63/show/62
+[^3]: The "council" before whom the letters were laid was almost certainly a Quaker Monthly Meeting, the local governing body of the Society of Friends. Quakers held that military service and wartime courtship by officers violated their testimonies of peace.
 
-- *The Writings of George Washington from the Original Manuscript Sources.* George Washington. John Clement Fitzpatrick, ed. Vol. 13. U.S. Govt. Print. Off., Washington, 1931–1944. (UVA Library A 1931 .W36.) http://etext.virginia.edu/etcbin/ot2www-washington?specfile=/texts/english/washington/fitzpatrick/search/gw.o2w&act=surround&offset=15856760&tag=Writings+of+Washington,+Vol.+13:+To+MAJOR+GENERAL+HORATIO+GATES&query=howel&id=gw130036
+[^4]: Black Point (present-day Sea Bright, Monmouth County, N.J.) was Richard Howell's observation post from August 1778 through early January 1779. Washington stationed him there to monitor the British fleet at Sandy Hook. See Washington's letter to Nathanael Greene, August 21, 1778, noting Howell "stationed at black point for the purpose of observn."
+
+[^5]: *Letter from Richard Howell to Israel Shreve, Howell, Richard (1) page 1.* October 5, 1778. Israel Shreve Revolutionary War Letters, 1768–1894, Special Collections, University of Houston Libraries. University of Houston Digital Library, https://digital.lib.uh.edu/collection/p15195coll12/item/63/show/60 (page 1), https://digital.lib.uh.edu/collection/p15195coll12/item/63/show/61 (page 2), https://digital.lib.uh.edu/collection/p15195coll12/item/63/show/62 (page 3, postscript by John Peck).
 
 ---
 

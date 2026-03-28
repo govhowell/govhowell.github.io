@@ -5,7 +5,9 @@ draft: false
 tags: ["letters", "pre-war", "Richard Howell", "correspondence"]
 ---
 
-Letters written before Richard Howell goes to war.
+Letters written before Richard Howell goes to war.[^1]
+
+[^1]: Richard Howell (1754–1802) was born in Gloucester County, New Jersey, and read law under Joseph Ellis in Burlington, N.J., prior to the Revolution. His pre-war political engagement included participation in the Greenwich Tea Burning of December 22, 1774 — one of the few documented acts of colonial protest outside of Boston — and service on local Committees of Correspondence in Cumberland County. Primary source letters from this period have not yet been digitized for this page; for context on his wartime service, see the [Revolutionary War Correspondence](/letters/revolutionary-war-correspondence/) section.
 
 ---
 

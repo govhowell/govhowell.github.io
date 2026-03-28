@@ -72,7 +72,7 @@ The centennial of the memorial (1908–2008) was celebrated in September 2008 an
 
 ## Sources
 
-- Andrews, Frank D. *The Tea-Burners of Cumberland County*. 1908. [PDF available in Documents](/resources/)
+- Andrews, Frank D. *The Tea-Burners of Cumberland County*. 1908. [Internet Archive](https://archive.org/details/teaburnerscumber00andr). [PDF available in Documents](/resources/)
 - [New Jersey State Archives, SENPA001](http://www.nj.gov/state/archives/senpa001-2.html)
 - [Cumberland County Historical Society](http://www.cchistsoc.org/teaburnerscelebration.html)
 - [Revolutionary War New Jersey, Greenwich](http://www.revolutionarywarnewjersey.com/new_jersey_revolutionary_war_sites/towns/greenwich_nj_revolutionary_war_sites.htm)

@@ -19,23 +19,23 @@ tags: ["Varina Howell Davis", "Jefferson Davis", "Confederacy", "William Howell"
 
 ## Biography
 
-On February 26, 1845, Jefferson Davis married for his second wife, Varina Banks Howell, daughter of [William Howell](/people/william-howell-1793-1863/) of New Jersey, and his wife Margaret Kempe Howell of Natchez, Mississippi.
+On February 26, 1845, Jefferson Davis married for his second wife, Varina Banks Howell, daughter of [William Howell](/people/william-howell-1793-1863/) of New Jersey, and his wife Margaret Kempe Howell of Natchez, Mississippi.[^1]
 
 William Burr Howell was a son of Governor Richard Howell of New Jersey and his wife Keziah Burr Howell. Margaret Louisa Kempe's father was Colonel James Kempe, an Irish gentleman who came to America after the Emmett Rebellion.
 
-Varina Banks Howell was born May 7, 1826 at the Marengo Plantation, Concordia Parish, Louisiana. She was named in honor of her mother's friend, Mrs. George Banks (Varina Staunton Banks), of Natchez, Mississippi. Varina Howell graduated from Elizabeth Female Academy, Washington, Mississippi, in 1840. Varina was educated first by a private tutor, Judge George Winchester, a Harvard graduate and family friend, for 12 years. Afterwards Varina attended Madame Greenland's School in Philadelphia, Pennsylvania.
+Varina Banks Howell was born May 7, 1826 at the Marengo Plantation, Concordia Parish, Louisiana. She was named in honor of her mother's friend, Mrs. George Banks (Varina Staunton Banks), of Natchez, Mississippi. Varina Howell graduated from Elizabeth Female Academy, Washington, Mississippi, in 1840.[^2] Varina was educated first by a private tutor, Judge George Winchester, a Harvard graduate and family friend, for 12 years. Afterwards Varina attended Madame Greenland's School in Philadelphia, Pennsylvania.
 
-In 1843, at age 17, while home for the Christmas holidays, she met Jefferson Davis. He was then a widower, 36 years of age, and just at the beginning of his political career. At first, her mother strongly disapproved of the courtship because Jefferson was 18 years her senior and was a Democrat while the Howells were strong supporters of the Whig Party. Varina grew sick of fever and during one of Jefferson's visits to her in February, 1845, it was decided that they should be married. They were married on February 26, 1845, at The Briars, the home of her parents, at Natchez, approximately 14 months after they first met.
+In 1843, at age 17, while home for the Christmas holidays, she met Jefferson Davis. He was then a widower, 36 years of age, and just at the beginning of his political career. At first, her mother strongly disapproved of the courtship because Jefferson was 18 years her senior and was a Democrat while the Howells were strong supporters of the Whig Party. Varina grew sick of fever and during one of Jefferson's visits to her in February, 1845, it was decided that they should be married. They were married on February 26, 1845, at The Briars, the home of her parents, at Natchez, approximately 14 months after they first met.[^1]
 
-Varina became the First Lady of the Confederate States of America when her husband became the 1st, and only, President of the states that chose to form the Confederate States. In May 1861, she and her husband moved to Richmond, Virginia, the new capital of the Confederate States of America, and lived in the Presidential Mansion there during the War (1861–1865). While First Lady, she rescued a young mulatto boy named Jim Limber from a beating and took him in to live at the White House of the Confederacy.
+Varina became the First Lady of the Confederate States of America when her husband became the 1st, and only, President of the states that chose to form the Confederate States. In May 1861, she and her husband moved to Richmond, Virginia, the new capital of the Confederate States of America, and lived in the Presidential Mansion there during the War (1861–1865). While First Lady, she rescued a young mulatto boy named Jim Limber from a beating and took him in to live at the White House of the Confederacy.[^3]
 
 When the war ended with the defeat of the CSA, her husband was imprisoned at Fort Monroe in Phoebus, Virginia, for two years. Although he was eventually released on bail and never tried, Jefferson Davis temporarily lost his home in Mississippi (Brierfield), most of his wealth, and his U.S. citizenship (his citizenship was posthumously restored in the 20th century).
 
-In 1879, Jefferson Davis purchased Beauvoir on the Mississippi Gulf Coast from Sarah Dorsey. Varina remained there until her husband's death in 1889. She began writing a biography of her husband, *Jefferson Davis, A Memoir* (ISBN 1-877853-06-2) in 1890. However, the book sold few copies due to problems with the publisher. With little income, poor health, and the inability to properly care for Beauvoir, she moved to New York City to pursue a literary career, writing for Joseph Pulitzer and the *New York World* in 1891. In October 1902, she sold Beauvoir to the Mississippi Division of the Sons of Confederate Veterans for $10,000 to be used as a Confederate veterans' home.
+In 1879, Jefferson Davis purchased Beauvoir on the Mississippi Gulf Coast from Sarah Dorsey. Varina remained there until her husband's death in 1889.[^4] She began writing a biography of her husband, *Jefferson Davis, A Memoir* (ISBN 1-877853-06-2) in 1890. However, the book sold few copies due to problems with the publisher. With little income, poor health, and the inability to properly care for Beauvoir, she moved to New York City to pursue a literary career, writing for Joseph Pulitzer and the *New York World* in 1891. In October 1902, she sold Beauvoir to the Mississippi Division of the Sons of Confederate Veterans for $10,000 to be used as a Confederate veterans' home.[^4]
 
-Varina Howell Davis died at age 80 of double pneumonia in her room at the Hotel Majestic in New York, on October 16, 1906, survived by only one of her six children. The former "First Lady of the Confederacy" is interred at Hollywood Cemetery, Richmond, Virginia, adjacent to the tomb of her famous husband.
+Varina Howell Davis died at age 80 of double pneumonia in her room at the Hotel Majestic in New York, on October 16, 1906, survived by only one of her six children. The former "First Lady of the Confederacy" is interred at Hollywood Cemetery, Richmond, Virginia, adjacent to the tomb of her famous husband.[^5]
 
-There is a portrait of Mrs. Davis (known as the "Widow of the Confederacy") by the Swiss-born American artist Adolfo Müller-Ury (1862–1947) painted in 1895 at the museum at Beauvoir, and a profile portrait by Müller-Ury of her daughter Winnie Davis, painted in 1897–98, which the artist donated in 1918 to the Museum of the Confederacy in Richmond, Virginia.
+There is a portrait of Mrs. Davis (known as the "Widow of the Confederacy") by the Swiss-born American artist Adolfo Müller-Ury (1862–1947) painted in 1895 at the museum at Beauvoir, and a profile portrait by Müller-Ury of her daughter Winnie Davis, painted in 1897–98, which the artist donated in 1918 to the Museum of the Confederacy in Richmond, Virginia.[^6]
 
 The couple had six children: Samuel Emory (1852–1854), Margaret Howell (1855–1909), Jefferson, Jr. (1857–1878), Joseph Evan (1859–1864), William Howell (d. 1872), and Varina Anne (1864–1898).
 
@@ -64,7 +64,9 @@ The couple had six children: Samuel Emory (1852–1854), Margaret Howell (1855�
 >
 > You will have seen a notice of the destruction of our home. If our cause succeeds we shall not mourn over any personal deprivation; if it should not, why, "the deluge." I hope I shall be able to provide for the comfort of the old negroes.
 
-*From The Papers of Jefferson Davis, Volume 8, pp. 203–4. Transcribed from Varina Davis, Memoir, Volume 2, pp. 267, 279–80. Ellipses are in the printed version. No manuscript has been found. Although Varina dates the letter May 31, internal evidence suggests that it was written on the 30th.*
+Source: *The Papers of Jefferson Davis*, Vol. 8, pp. 203–4.[^7]
+
+*Transcribed from Varina Davis, Memoir, Volume 2, pp. 267, 279–80. Ellipses are in the printed version. No manuscript has been found. Although Varina dates the letter May 31, internal evidence suggests that it was written on the 30th.*
 
 ---
 
@@ -89,7 +91,7 @@ The couple had six children: Samuel Emory (1852–1854), Margaret Howell (1855�
 >
 > [. . .] No bad preparation for a search of another. Dear children I can say nothing to them, but for you and them my heart is full, my prayers constant and my hopes are the trust I feel in the mercy of God.
 >
-> Farewell my Dear; there may be better things in store for us than are now in view, but my love is all I have to offer and that has the value of a thing long possessed and sure not to be lost. Once more, and with God's favor for a short time only, farewell, 
+> Farewell my Dear; there may be better things in store for us than are now in view, but my love is all I have to offer and that has the value of a thing long possessed and sure not to be lost. Once more, and with God's favor for a short time only, farewell,
 >
 > YOUR HUSBAND.
 
@@ -113,7 +115,23 @@ The couple had six children: Samuel Emory (1852–1854), Margaret Howell (1855�
 
 ---
 
+[^1]: *The Papers of Jefferson Davis*, ed. Lynda Lasswell Crist et al., 14 vols. (Baton Rouge: Louisiana State University Press, 1971–2015), Vol. 2, p. 395; Vol. 8, pp. 203–4. The marriage date of February 26, 1845 is confirmed by the documentary record. Project site: [jeffersondavis.rice.edu](https://jeffersondavis.rice.edu/).
+
+[^2]: Elizabeth Female Academy, Washington, Mississippi, was the first institution chartered for women's higher education in Mississippi (established 1818, closed 1845). See the National Park Service site entry: [nps.gov/places/elizabeth-female-academy.htm](https://www.nps.gov/places/elizabeth-female-academy.htm); and the *Mississippi Encyclopedia* entry: [mississippiencyclopedia.org/entries/elizabeth-female-academy/](https://mississippiencyclopedia.org/entries/elizabeth-female-academy/).
+
+[^3]: On Jim Limber (James Henry Brooks), see the *Encyclopedia Virginia* entry by the American Civil War Museum: [encyclopediavirginia.org/entries/limber-jim/](https://encyclopediavirginia.org/entries/limber-jim/). Scholars note that the relationship between the Davis family and Jim Limber has been a subject of historical debate; the *Encyclopedia Virginia* article provides the most current scholarly treatment.
+
+[^4]: Beauvoir, the Jefferson Davis Home and Presidential Library, Biloxi, Mississippi, was designated a National Historic Landmark in 1973. Official site: [visitbeauvoir.org](https://www.visitbeauvoir.org/). The $10,000 sale price (1902) is confirmed by the Jefferson Davis Presidential Library records at Beauvoir.
+
+[^5]: Hollywood Cemetery, Richmond, Virginia. Official site: [hollywoodcemetery.org](https://www.hollywoodcemetery.org/).
+
+[^6]: On the Müller-Ury portraits of Varina Davis and Winnie Davis, see: [Wikipedia: Adolfo Müller-Ury](https://en.wikipedia.org/wiki/Adolfo_M%C3%BCller-Ury); and the artist's estate site, [muller-ury.com](https://www.muller-ury.com/). The Winnie Davis portrait, donated by Müller-Ury in 1918, is held by the American Civil War Museum (formerly the Museum of the Confederacy), Richmond: [acwm.org](https://acwm.org/).
+
+[^7]: *The Papers of Jefferson Davis*, Vol. 8, pp. 203–4 (Louisiana State University Press). Transcribed from Varina Davis, *Memoir*, Vol. 2, pp. 267, 279–80. See also the Rice University project finding aids: [jeffersondavis.rice.edu/volumes](https://jeffersondavis.rice.edu/volumes).
+
 <!--
+**Secondary source note:** The WikiTree profile for Varina Howell Davis (Howell-1) at [wikitree.com/wiki/Howell-1](https://www.wikitree.com/wiki/Howell-1) was used as an initial genealogical reference. It is a secondary, crowd-sourced source and should not be cited in place of primary documentary sources such as *The Papers of Jefferson Davis*.
+
 **Andrew's Research Notes:**
 
 - The original HTML source for this page is drawn largely from Varina's WikiTree profile (Howell-1). The letters are reproduced from *The Papers of Jefferson Davis* published by Louisiana State University Press, an authoritative scholarly edition. Citation should be updated to the full LSU Press volumes rather than WikiTree.
@@ -126,5 +144,5 @@ The couple had six children: Samuel Emory (1852–1854), Margaret Howell (1855�
 
 - "Jim Limber", James Henry Brooks, the boy Varina rescued, is a historical figure of some scholarly debate. His later life is not fully documented. The phrasing here follows the original source.
 
-- Beauvoir was designated a National Historic Landmark in 1975. The $10,000 sale price in 1902 is confirmed by the Jefferson Davis Presidential Library at Beauvoir.
+- Beauvoir was designated a National Historic Landmark in 1973 (not 1975 as previously noted). The $10,000 sale price in 1902 is confirmed by the Jefferson Davis Presidential Library at Beauvoir.
 -->

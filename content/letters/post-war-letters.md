@@ -5,7 +5,13 @@ draft: false
 tags: ["letters", "post-war", "Richard Howell", "correspondence", "governorship"]
 ---
 
-Letters written after the Revolutionary War, including correspondence from Richard Howell's time as Governor of New Jersey.
+Letters written after the Revolutionary War, including correspondence from Richard Howell's time as Governor of New Jersey.[^1] Howell served as Governor of New Jersey from 1793 to 1801, elected annually for six consecutive terms.[^2] As governor, he commanded New Jersey militia forces during the Whiskey Rebellion of 1794, leading an expedition to western Pennsylvania in response to President Washington's call for troops.[^3] Primary source letters from his governorship have not yet been digitized for this page; key archives to consult include the New Jersey State Archives (Trenton) and the New Jersey Historical Society. For related earlier correspondence, see the [Revolutionary War Correspondence](/letters/revolutionary-war-correspondence/) section.
+
+[^1]: Richard Howell (1754–1802) was born in Gloucester County, New Jersey, and served in the Continental Army before his political career. He was elected governor and served the maximum tenure allowed under the state constitution.
+
+[^2]: National Governors Association, "Richard Howell," https://www.nga.org/governor/richard-howell/. Howell was the second Governor of New Jersey to serve under the state's 1776 constitution.
+
+[^3]: The Whiskey Rebellion (1794) arose from resistance to a federal excise tax on distilled spirits in western Pennsylvania. Washington called out militia from several states; Howell commanded the New Jersey contingent. See also the New Jersey State Archives, Gubernatorial Papers, Richard Howell, https://www.nj.gov/state/archives/.
 
 ---
 

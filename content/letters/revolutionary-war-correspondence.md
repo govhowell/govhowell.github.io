@@ -5,7 +5,7 @@ draft: false
 tags: ["Revolutionary War", "correspondence", "George Washington", "2nd New Jersey Regiment", "William Maxwell", "Israel Shreve", "Black Point", "Monmouth", "intelligence", "spy network"]
 ---
 
-This page collects excerpts from primary source correspondence, drawn from *The Writings of George Washington* and the George Washington Papers at the Library of Congress, documenting Major Richard Howell's role as an intelligence officer and field commander during the Revolutionary War.
+This page collects excerpts from primary source correspondence, drawn from *The Writings of George Washington* and the George Washington Papers at the Library of Congress, documenting Major Richard Howell's role as an intelligence officer and field commander during the Revolutionary War.[^intro1]
 
 ---
 
@@ -13,9 +13,9 @@ This page collects excerpts from primary source correspondence, drawn from *The 
 
 The greater part of the New Jersey soldiers' time was occupied by such mundane duties as mounting guard, cutting wood, and maintaining garrisons in several towns in the area. There were occasional opportunities during this period for excitement or at least a change in the mundane rounds of daily living.
 
-In August 1778 General George Washington directed Brigadier General Maxwell to station a party of fifty men in Monmouth County "at some place … most convenient for commanding a view of the Hook and its environs; in order to watch the motions of the Enemy's Fleet and to advise me from time to time of every thing that passes …" By and large this duty must become routine after the men had settled in to their new environs, but to break the monotony there were occasional forays against "Wood Tories," a popular term for local inhabitants loyal to the crown. One attempt to capture them or "burn their Cabin" was made around the end of August, and on the 30th the 2nd New Jersey's Major Richard Howell, commander of the observation post, moved with his men to forestall a rumored Loyalist attack at "the Sale of Ship and Cargo at Toms River"; the outcome is unknown.[^1]
+In August 1778 General George Washington directed Brigadier General Maxwell[^intro2] to station a party of fifty men in Monmouth County "at some place … most convenient for commanding a view of the Hook and its environs; in order to watch the motions of the Enemy's Fleet and to advise me from time to time of every thing that passes …" By and large this duty must become routine after the men had settled in to their new environs, but to break the monotony there were occasional forays against "Wood Tories," a popular term for local inhabitants loyal to the crown. One attempt to capture them or "burn their Cabin" was made around the end of August, and on the 30th the 2nd New Jersey's Major Richard Howell, commander of the observation post, moved with his men to forestall a rumored Loyalist attack at "the Sale of Ship and Cargo at Toms River"; the outcome is unknown.[^1]
 
-Unfortunately Major Howell's party was less than the fifty men the commander in chief had recommended. On 9 October the major wrote from "Tinton falls" that "As to parties of Observation alas I have but thirty men [which is] insufficient to guard our little post & am … unable to detach a party on so dangerous a command but obligd to expose my person every Day alone." Howell's detachment remained on this duty until January 1779. In reference to a force of "250 Men from the line, properly officered, to go upon that service" of stopping the trade between Monmouth and New York, Washington stated on 9 January "There will be no necessity of Major Howell's remaining in Monmouth … be pleased therefore to direct him to join his Brigade, with the Men that are with him as soon as they arrive …"[^2]
+Unfortunately Major Howell's party was less than the fifty men the commander in chief had recommended. On 9 October the major wrote from "Tinton falls" that "As to parties of Observation alas I have but thirty men [which is] insufficient to guard our little post & am … unable to detach a party on so dangerous a command but obligd to expose my person every Day alone."[^intro3] Howell's detachment remained on this duty until January 1779. In reference to a force of "250 Men from the line, properly officered, to go upon that service" of stopping the trade between Monmouth and New York, Washington stated on 9 January "There will be no necessity of Major Howell's remaining in Monmouth … be pleased therefore to direct him to join his Brigade, with the Men that are with him as soon as they arrive …"[^2]
 
 ---
 
@@ -23,7 +23,7 @@ Unfortunately Major Howell's party was less than the fifty men the commander in 
 
 ### Richard Howell to William Maxwell, June 24, 1778
 
-*Washington Papers, Reel 50*
+*Source: George Washington Papers, Series 4, Reel 50, Library of Congress.[^src1]*
 
 > "Finding that the Enemy were extreamly carless I [illegible word] about & Detach'd my Corps in three Divisions hoping that by that means [to] Collect a number of prisoners, Captn. Ross had a smart fire with the Enemy as they were taking up the Bridge tis thought he Kill'd some of them. The success of the other parties is as yet unknown. Provisions is extreamly difficult to procure as the Enemy have swept all before them, but my Method is [to] Leave men behind to Cook & bring on [to] the rendezvous where we meet in the Evening. Colo. White [who] has been in their rear says [they] Incline towards Emly's town beyond Allentown. Capt. Ross always beheaves well & so will the other two beyond Doubt. Tell Colo. Shreve by means of the Hessian General Nothing has been hurt in his house."
 
@@ -33,7 +33,7 @@ Unfortunately Major Howell's party was less than the fifty men the commander in 
 
 *Washington requesting a vigilant officer to make observations and report to him. Major Richard Howell was chosen.*
 
-*The Writings of George Washington from the Original Manuscript Sources, 1745–1799. John C. Fitzpatrick, Editor.*
+*Source: John C. Fitzpatrick, ed., *The Writings of George Washington from the Original Manuscript Sources, 1745–1799*, vol. 12 (Washington, D.C.: U.S. Government Printing Office, 1934), p. 295.[^src2]*
 
 > **Head Quarters, August 8, 1778.**
 >
@@ -56,7 +56,7 @@ Unfortunately Major Howell's party was less than the fifty men the commander in 
 
 *Major Richard Howell making observations concerning the British Fleet.*
 
-*The Writings of George Washington from the Original Manuscript Sources, 1745–1799. John C. Fitzpatrick, Editor.*
+*Source: John C. Fitzpatrick, ed., *The Writings of George Washington from the Original Manuscript Sources, 1745–1799*, vol. 12 (Washington, D.C.: U.S. Government Printing Office, 1934).[^src3]*
 
 > **White-plains, August 21, 1778.**
 >
@@ -78,7 +78,7 @@ Unfortunately Major Howell's party was less than the fifty men the commander in 
 
 ### George Washington to Lord Stirling, October 22, 1778
 
-*The Writings of George Washington from the Original Manuscript Sources, 1745–1799. John C. Fitzpatrick, Editor.*
+*Source: John C. Fitzpatrick, ed., *The Writings of George Washington from the Original Manuscript Sources, 1745–1799*, vol. 13 (Washington, D.C.: U.S. Government Printing Office, 1934); see also Philander D. Chase, ed., *The Papers of George Washington: Revolutionary War Series*, vol. 17 (Charlottesville: University of Virginia Press, 2008).[^src4]*
 
 > **Head Quarters, Fredericksburg, October 22, 1778.**
 >
@@ -88,9 +88,9 @@ Unfortunately Major Howell's party was less than the fifty men the commander in 
 
 ### George Washington to Benjamin Tallmadge, March 21, 1779
 
-*A letter from George Washington to Benjamin Tallmadge in reference to paying Aaron Woodhull alias Samuel Culper and finding a more expedient route for transmitting intelligence through Col. Shreve or Gen. Maxwell, both of which Richard Howell already was sending intelligence through. This letter is dated 21 March 1779; Richard Howell resigned in April 1779.*
+*A letter from George Washington to Benjamin Tallmadge in reference to paying Aaron Woodhull alias Samuel Culper[^intro4] and finding a more expedient route for transmitting intelligence through Col. Shreve or Gen. Maxwell, both of which Richard Howell already was sending intelligence through. This letter is dated 21 March 1779; Richard Howell resigned in April 1779.*
 
-*The Writings of George Washington from the Original Manuscript Sources, 1745–1799. John C. Fitzpatrick, Editor.*
+*Source: *Founders Online*, National Archives, https://founders.archives.gov/documents/Washington/03-19-02-0550. Also in John C. Fitzpatrick, ed., *The Writings of George Washington from the Original Manuscript Sources, 1745–1799*, vol. 14 (Washington, D.C.: U.S. Government Printing Office, 1936).[^src5]*
 
 > **Middlebrook, March 21, 1779.**
 >
@@ -111,7 +111,7 @@ Unfortunately Major Howell's party was less than the fifty men the commander in 
 
 ### George Washington to Alexander McDougall, March 25, 1779
 
-*Letter concerning double agents. Washington was gearing up his spy network and looking for ways to gain reliable intelligence.*
+*Letter concerning double agents. Washington was gearing up his spy network and looking for ways to gain reliable intelligence.[^src6]*
 
 > **Head Quarters, Middle Brook, March 25, 1779.**
 >
@@ -121,7 +121,7 @@ Unfortunately Major Howell's party was less than the fifty men the commander in 
 
 ### George Washington to William Maxwell, March 25, 1779
 
-*Letter to General Maxwell asking for more intelligence and hoping that intercourse with New York has not come to an end.*
+*Letter to General Maxwell asking for more intelligence and hoping that intercourse with New York has not come to an end.[^src7]*
 
 > **Headquarters, Middlebrook, March 25, 1779.**
 >
@@ -133,7 +133,7 @@ Unfortunately Major Howell's party was less than the fifty men the commander in 
 
 ### George Washington to Congress, January 11, 1780
 
-*Letter from General Washington to Congress alluding to a secret mission to be carried out by Richard Howell.*
+*Letter from General Washington to Congress alluding to a secret mission to be carried out by Richard Howell.[^src8]*
 
 > **Head Quarters, Morris Town, January 11, 1780.**
 >
@@ -145,25 +145,49 @@ Unfortunately Major Howell's party was less than the fifty men the commander in 
 
 ## New Jersey Delegates who Ratified the Constitution of the United States
 
-**Gloucester County:** Richard Howell 1787, Andrew Hunter 1787, Benjamin Whitall 1787
+**Gloucester County:** Richard Howell 1787, Andrew Hunter 1787, Benjamin Whitall 1787[^intro5]
 
 ---
 
 ## Sources
 
-- [^1]: Washington to William Maxwell, 8 August 1778, Fitzpatrick, *Writings of Washington*, 12 (1934), 295. Richard Howell to William Maxwell, 26 August 1778, George Washington Papers, series 4, reel 50; Howell to Maxwell, 30 August 1778, series 4, reel 51.
-- [^2]: Richard Howell to Washington, 9 October 1778, reel 52. Washington to the Board of War, 9 January 1779, Fitzpatrick, *Writings of Washington*, 13 (1936), 497.
+[^1]: Washington to William Maxwell, 8 August 1778, Fitzpatrick, *Writings of Washington*, vol. 12 (1934), p. 295. Richard Howell to William Maxwell, 26 August 1778, George Washington Papers, Series 4, Reel 50, Library of Congress; Howell to Maxwell, 30 August 1778, Series 4, Reel 51.
 
-**Full source:** Philander D. Chase, ed., *The Papers of George Washington: Revolutionary War Series*, volume 17, 15 September – 31 October 1778. Charlottesville and London: University of Virginia Press, 2008.
+[^2]: Richard Howell to Washington, 9 October 1778, George Washington Papers, Series 4, Reel 52, Library of Congress; available at *Founders Online*, National Archives, https://founders.archives.gov/documents/Washington/03-17-02-0337. Washington to the Board of War, 9 January 1779, Fitzpatrick, *Writings of Washington*, vol. 13 (1936), p. 497.
+
+[^intro1]: John C. Fitzpatrick, ed., *The Writings of George Washington from the Original Manuscript Sources, 1745–1799*, 39 vols. (Washington, D.C.: U.S. Government Printing Office, 1931–1944); George Washington Papers, Library of Congress, https://www.loc.gov/collections/george-washington-papers/about-this-collection/.
+
+[^intro2]: Brigadier General William Maxwell (c. 1733–1796) commanded the New Jersey Brigade throughout much of the Revolutionary War. He resigned his commission in July 1780.
+
+[^intro3]: Richard Howell to George Washington, 9 October 1778, *Founders Online*, National Archives, https://founders.archives.gov/documents/Washington/03-17-02-0337.
+
+[^intro4]: "Samuel Culper" was the spy alias of Abraham Woodhull of Setauket, New York, a key member of Washington's Culper Spy Ring. He operated under the cover of a Tory sympathizer and passed intelligence through a chain that included Benjamin Tallmadge.
+
+[^intro5]: Minutes of the New Jersey Convention that ratified the Constitution, 1787, New Jersey State Archives, https://www.nj.gov/state/archives/doc1787conventionminutes.html. Richard Howell represented Gloucester County at the ratifying convention.
+
+[^src1]: George Washington Papers, Series 4, General Correspondence, Reel 50, Library of Congress, Washington, D.C. Available through the Library of Congress Digital Collections, https://www.loc.gov/collections/george-washington-papers/about-this-collection/.
+
+[^src2]: John C. Fitzpatrick, ed., *The Writings of George Washington from the Original Manuscript Sources, 1745–1799*, vol. 12 (Washington, D.C.: U.S. Government Printing Office, 1934), p. 295. Also published in David R. Hoth, ed., *The Papers of George Washington: Revolutionary War Series*, vol. 16, 1 July–14 September 1778 (Charlottesville: University of Virginia Press, 2006).
+
+[^src3]: John C. Fitzpatrick, ed., *The Writings of George Washington from the Original Manuscript Sources, 1745–1799*, vol. 12 (Washington, D.C.: U.S. Government Printing Office, 1934). Also published in David R. Hoth, ed., *The Papers of George Washington: Revolutionary War Series*, vol. 16, 1 July–14 September 1778 (Charlottesville: University of Virginia Press, 2006). The Nathanael Greene Papers are at the Library of Congress.
+
+[^src4]: John C. Fitzpatrick, ed., *The Writings of George Washington from the Original Manuscript Sources, 1745–1799*, vol. 13 (Washington, D.C.: U.S. Government Printing Office, 1934). Also in Philander D. Chase, ed., *The Papers of George Washington: Revolutionary War Series*, vol. 17, 15 September–31 October 1778 (Charlottesville: University of Virginia Press, 2008).
+
+[^src5]: *Founders Online*, National Archives, https://founders.archives.gov/documents/Washington/03-19-02-0550. Also in John C. Fitzpatrick, ed., *The Writings of George Washington from the Original Manuscript Sources, 1745–1799*, vol. 14 (Washington, D.C.: U.S. Government Printing Office, 1936).
+
+[^src6]: George Washington to Alexander McDougall, 25 March 1779, George Washington Papers, Series 3b, Varick Transcripts, Letterbook 8, Library of Congress, https://www.loc.gov/resource/mgw3b.008/?sp=227.
+
+[^src7]: John C. Fitzpatrick, ed., *The Writings of George Washington from the Original Manuscript Sources, 1745–1799*, vol. 14 (Washington, D.C.: U.S. Government Printing Office, 1936). Draft in the writing of James McHenry; portions in brackets in Washington's hand.
+
+[^src8]: George Washington Papers, Library of Congress. The Board of War letter of 3 January 1780 quoted in footnote [^n46] is the key source identifying Howell's secret post-resignation intelligence mission. See also Philander D. Chase, ed., *The Papers of George Washington: Revolutionary War Series* (Charlottesville: University of Virginia Press, ongoing).
+
+**Full source for vol. 17:** Philander D. Chase, ed., *The Papers of George Washington: Revolutionary War Series*, volume 17, 15 September – 31 October 1778. Charlottesville and London: University of Virginia Press, 2008.
 
 Additional sources:
-- http://founders.archives.gov/documents/Washington/03-19-02-0717
-- http://en.wikipedia.org/wiki/Richard_Howell
-- http://slic.njstatelib.org/slic_files/imported/NJ_Information/Digital_Collections/Governors_of_New_Jersey/GHOWE.pdf
-- http://www.nga.org/cms/home/governors/past-governors-bios/page_new_jersey/col2-content/main-content-list/title_howell_richard.html
-- http://avalon.law.yale.edu/18th_century/ratnj.asp
-- http://www.nj.gov/state/archives/doc1787conventionminutes.html
-- https://archive.org/stream/compiledservicer0604unit
+- https://founders.archives.gov/documents/Washington/03-19-02-0717
+- https://en.wikipedia.org/wiki/Richard_Howell
+- https://www.nj.gov/state/archives/doc1787conventionminutes.html
+- https://archive.org/details/compiledservicer0604unit
 
 ---
 

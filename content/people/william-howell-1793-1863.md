@@ -12,7 +12,7 @@ tags: ["William Howell", "War of 1812", "Mississippi", "family", "Varina Howell 
 
 ![William Burr Howell](http://www.wikitree.com/photo.php/d/dc/Howell-2988.gif)
 
-William Howell was the son of [Richard Howell](/biography/) and a soldier during the War of 1812. After the war he removed to Mississippi where he met and married Margaret Kempe. He was the father of [Varina Howell Davis](/people/varina-howell-davis/), wife of Jefferson Davis, President of the Confederate States.
+William Howell was the son of [Richard Howell](/biography/) and a soldier during the War of 1812.[^1] After the war he removed to Mississippi where he met and married Margaret Kempe.[^2] He was the father of [Varina Howell Davis](/people/varina-howell-davis/), wife of Jefferson Davis, President of the Confederate States.
 
 ---
 
@@ -36,13 +36,21 @@ William Howell was the son of [Richard Howell](/biography/) and a soldier during
 >
 > I hope William will have returned to New Orleans before this reaches and have received the promotion which I have learned is designed for him. The duty on which he went to Arkansas was important and difficult beyond the trusts usually confined to persons of his age, but I anticipate success and increased consideration for him as the result. I have much confidence in him and look forward to his future career as likely to be a source of pride and pleasure.
 >
-> It always gives me real gratification to receive a letter from you and though I should seem negligent in replying it cannot proceed from a want for either regard or respect or of that affectionate solicitude with which I am ever yours, 
+> It always gives me real gratification to receive a letter from you and though I should seem negligent in replying it cannot proceed from a want for either regard or respect or of that affectionate solicitude with which I am ever yours,
 >
 > **Jeffn. Davis**
 
-*From The Papers of Jefferson Davis, Volume 5, pp. 91–92. Transcribed from privately owned original.*
+Source: *The Papers of Jefferson Davis*, Vol. 5, pp. 91–92.[^3]
+
+*Transcribed from privately owned original.*
 
 ---
+
+[^1]: William Burr Howell served as a Second Lieutenant in the 15th U.S. Infantry during the War of 1812. For War of 1812 military service records, see the National Archives research guide: [archives.gov/research/military/war-of-1812](https://www.archives.gov/research/military/war-of-1812). A contemporary letter from Captain White Youngs (1814) citing Howell's service is documented in the WikiTree profile Howell-2988 (see note 2 below).
+
+[^2]: WikiTree profile for William Burr Howell (Howell-2988), a secondary genealogical source: [wikitree.com/wiki/Howell-2988](https://www.wikitree.com/wiki/Howell-2988). Birth year in the WikiTree profile is given as 1796; the 1793 date used on this site follows other genealogical records. This profile should be treated as a secondary, crowd-sourced reference only.
+
+[^3]: *The Papers of Jefferson Davis*, ed. Lynda Lasswell Crist et al., 14 vols. (Baton Rouge: Louisiana State University Press, 1971–2015), Vol. 5, pp. 91–92. Transcribed from privately owned original. Project site and finding aids: [jeffersondavis.rice.edu](https://jeffersondavis.rice.edu/).
 
 <!--
 **Andrew's Research Notes:**

@@ -72,6 +72,13 @@ The regiment entered Valley Forge with 275 men assigned, of whom 204 were fit fo
 
 ---
 
+## Sources
+
+- [Valley Forge Muster Roll — 2nd New Jersey Regiment](http://valleyforgemusterroll.org/regiments/nj2.asp), Valley Forge Legacy: The Muster Roll Project.
+- [Maxwell's Brigade](http://valleyforgemusterroll.org/brigades/nj.asp), Valley Forge Legacy: The Muster Roll Project.
+
+---
+
 <!--
 **Andrew's Research Note:** The regimental history here is brief and drawn from a single source (Valley Forge Muster Roll). The regiment's full service record, including its role in the Defense of Canada, Lake Champlain, and Monmouth, deserves expanded treatment. The connection between Lewis Howell (Regimental Surgeon) and Richard Howell (Major) in the same regiment, and both having participated in the Greenwich Tea Burning the year prior, is a notable narrative thread worth developing.
 -->

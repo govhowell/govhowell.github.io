@@ -21,7 +21,11 @@ Dr. Howell inoculated his regiment by pulling a thread infected with the small p
 
 Lewis fell ill with fever during the Monmouth campaign. He was sick at the time of the Battle of Monmouth (June 28, 1778) and resigned from the army on July 5, 1778. He died shortly thereafter at a tavern near Monmouth Court House. He was 23 years old.
 
-> *Source: Footnotes to "To George Washington from Major Richard Howell, 7 April 1779," Founders Online, National Archives. Washington Papers, Revolutionary War Series, vol. 19, ed. Philander D. Chase and William M. Ferraro (University of Virginia Press, 2009), pp. 765–766.*
+---
+
+## Sources
+
+- "To George Washington from Major Richard Howell, 7 April 1779," *Founders Online*, National Archives, [https://founders.archives.gov/documents/Washington/03-19-02-0717](https://founders.archives.gov/documents/Washington/03-19-02-0717). Washington Papers, Revolutionary War Series, vol. 19, ed. Philander D. Chase and William M. Ferraro (University of Virginia Press, 2009), pp. 765–766. *(Lewis Howell's death is documented in a footnote to this letter.)*
 
 Currently it is unknown where Dr. Howell was laid to rest. If anyone reading this knows where he was buried or has any information about Dr. Howell please [contact us](/resources/contact/).
 

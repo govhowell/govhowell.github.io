@@ -7,7 +7,7 @@ tags: ["family history", "Wales", "Howel Dda", "genealogy", "Edward Howell", "Ja
 
 ![header](/images/header.png)
 
-The Howells of Wales and of the west of England are surrounded in the Cymric annals by legends as varied as those which compose the Nibelungenlied or the Arthurian circle. Amid the strains of martial music and the clang of arms in the wrestle for supremacy among the various Welsh tribes (temp. 900 et seq.) Howel Dda, or Howel the Good, stands out as the most famous of the early Welsh kings, and he is described in William of Malmesbury's Chronicle as "King of all the Welsh." The son of Cadell, the son of Rhodri the Great, his pedigree was traced by a tenth century genealogist to Cunedda, thence to Ann, cousin of the Blessed Virgin.* Howel succeeded his father circa 909, and, though subject to the lady of the Mercians, [Æthelflæd](http://en.wikipedia.org/wiki/%C3%86thelfl%C3%A6d), and her husband, Æthelred, as well as their successor, Edward the elder, became Lord of the North Welsh in 922, and King of the West Welsh in 926. He attested charters drawn in the reign of Athelstan as "Howel subregulus," in the reign of Eadred as "Howel regulus," and in 949 as "Howel rex." He is styled by Simeon of Durham, a contemporary, "rex Brittonum."
+The Howells of Wales and of the west of England are surrounded in the Cymric annals by legends as varied as those which compose the Nibelungenlied or the Arthurian circle. Amid the strains of martial music and the clang of arms in the wrestle for supremacy among the various Welsh tribes (temp. 900 et seq.) Howel Dda, or Howel the Good, stands out as the most famous of the early Welsh kings,[^2] and he is described in William of Malmesbury's Chronicle[^3] as "King of all the Welsh." The son of Cadell, the son of Rhodri the Great, his pedigree was traced by a tenth century genealogist to Cunedda, thence to Ann, cousin of the Blessed Virgin.* Howel succeeded his father circa 909, and, though subject to the lady of the Mercians, [Æthelflæd](http://en.wikipedia.org/wiki/%C3%86thelfl%C3%A6d), and her husband, Æthelred, as well as their successor, Edward the elder, became Lord of the North Welsh in 922, and King of the West Welsh in 926. He attested charters drawn in the reign of Athelstan as "Howel subregulus," in the reign of Eadred as "Howel regulus," and in 949 as "Howel rex." He is styled by Simeon of Durham, a contemporary, "rex Brittonum."
 
 ![Howel Dda](/images/howell_dda.png)
 
@@ -45,7 +45,7 @@ Though by many regarded as a puritan preacher, Dr. Howell was early marked by th
 
 ---
 
-His younger brother, James Howell, the quaint and delightful author of *Epistolæ Ho-Elianæ*, *Londinopolis*, *Dodona's Grove*, and numerous other works, was born circa 1594. According to himself, his "ascendant was that hot constellation of Cancer about the midst of the dog-days." He entered Jesus College, Oxford, in 1610, took a degree in arts, and then, "being a pure cadet, a true cosmopolite, not born to land, lease, house or office," went to seek his fortune. After considerable travel in various countries on the continent and the acquirement of several languages, he obtained distinction. He became secretary to Scrope, Earl of Sunderland, sat in parliament for Richmond, Yorkshire, was one of the clerks of the privy council under James I. and Charles I., and subsequently the secretary to Robert Sidney, Earl of Leicester, ambassador extraordinary from Charles I. to the King of Denmark. He was afterwards made historiographer royal, and was the first in England to bear that title.
+His younger brother, James Howell, the quaint and delightful author of *Epistolæ Ho-Elianæ*,[^4] *Londinopolis*, *Dodona's Grove*, and numerous other works, was born circa 1594. According to himself, his "ascendant was that hot constellation of Cancer about the midst of the dog-days." He entered Jesus College, Oxford, in 1610, took a degree in arts, and then, "being a pure cadet, a true cosmopolite, not born to land, lease, house or office," went to seek his fortune. After considerable travel in various countries on the continent and the acquirement of several languages, he obtained distinction. He became secretary to Scrope, Earl of Sunderland, sat in parliament for Richmond, Yorkshire, was one of the clerks of the privy council under James I. and Charles I., and subsequently the secretary to Robert Sidney, Earl of Leicester, ambassador extraordinary from Charles I. to the King of Denmark. He was afterwards made historiographer royal, and was the first in England to bear that title.
 
 ![James Howell](/images/james_howell.png)
 
@@ -69,7 +69,7 @@ William Howell, of Wedon, in the parish of Waygate, gent, made his will 30 Novem
 
 A bill of complaint by John Howell, of Wedon, 1573, sets forth "that his father, also of Wedon, deceased, purchased the manor of Westbury in Marsh Gibbon, in the same county," and that the same is now in the custody of his brother, Henry Howell.
 
-"Henry Howell, gent, was buried ye 7th day of July, 1625," and at his death his son Edward Howell became possessed of the manor of Westbury, which, on 8 June, 1639, he, then "of Grewelltorpe, in the county of York, gent," conveyed to Richard Francis, of Marsh Gibbon, for the consideration of sixteen hundred pounds. About this time Edward Howell emigrated with his family to America, locating first at Lynn, Massachusetts, where he held five hundred acres. He, however, removed to Southampton, Long Island, in 1640, of which he was one of the founders, and was a member of the governor's council of Connecticut from 1647 until 1653. His son Major John Howel, prominent in the civil as well as in the military affairs of Long Island, was baptized at Marsh Gibbon, county Bucks, 20 November, 1624, and died at Southampton, 3 November, 1696.
+"Henry Howell, gent, was buried ye 7th day of July, 1625," and at his death his son Edward Howell became possessed of the manor of Westbury, which, on 8 June, 1639, he, then "of Grewelltorpe, in the county of York, gent," conveyed to Richard Francis, of Marsh Gibbon, for the consideration of sixteen hundred pounds. About this time Edward Howell emigrated with his family to America, locating first at Lynn, Massachusetts, where he held five hundred acres. He, however, removed to Southampton, Long Island, in 1640, of which he was one of the founders,[^5] and was a member of the governor's council of Connecticut from 1647 until 1653. His son Major John Howel, prominent in the civil as well as in the military affairs of Long Island, was baptized at Marsh Gibbon, county Bucks, 20 November, 1624, and died at Southampton, 3 November, 1696.
 
 ![John Howell headstone](/images/john_howell_headstone.png)
 
@@ -85,9 +85,9 @@ William Howell, of Castlebight, Wales, is another of the early Pennsylvania colo
 
 **Major Richard Howell was a son of Ebenezer Howell by his wife Sarah Bond, and grandson of Reynold and Mary Howell, of Newark, Delaware.** Reynold Howell purchased a plantation near Newark in 1724, and probably emigrated from Wales shortly before that date. He is one of the patentees named (1758) in the charter incorporating the town of Newark.
 
-[Dr. Lewis Howell](/people/dr-lewis-howell/), a brother of Major Howell, was a surgeon in the Revolutionary army, and died of fever on the day of the battle of Monmouth; and Richard Lewis Howell, a son of Major Howell, was captain in the United States army, and the father of Rear-Admiral John Cumming Howell, a distinguished officer in the United States navy. Lieutenant [William Howell](/people/william-howell-1793-1863/), another son, was the father of [Varina](/people/varina-howell-davis/), widow of Jefferson Davis, president of the Southern Confederacy.
+[Dr. Lewis Howell](/people/dr-lewis-howell/), a brother of Major Howell, was a surgeon in the Revolutionary army, and died of fever on the day of the battle of Monmouth;[^6] and Richard Lewis Howell, a son of Major Howell, was captain in the United States army, and the father of Rear-Admiral John Cumming Howell, a distinguished officer in the United States navy. Lieutenant [William Howell](/people/william-howell-1793-1863/), another son, was the father of [Varina](/people/varina-howell-davis/), widow of Jefferson Davis, president of the Southern Confederacy.
 
-For more information on Richard Howell's family tree, [click here for the WikiTree.com profile for Richard Howell](http://www.wikitree.com/index.php?title=Howell-2982).
+For more information on Richard Howell's family tree, [click here for the WikiTree.com profile for Richard Howell](http://www.wikitree.com/index.php?title=Howell-2982).[^7]
 
 ![Howell coat of arms](/images/coat_of_arms.png)
 
@@ -95,7 +95,7 @@ For more information on Richard Howell's family tree, [click here for the WikiTr
 
 ### Source
 
-Genealogical and Biographical Memorials of the Reading, Howell, Yerkes, Watts, Latham, and Elkins Families
+Genealogical and Biographical Memorials of the Reading, Howell, Yerkes, Watts, Latham, and Elkins Families[^1]
 
 by [Josiah Granville Leach](https://archive.org/search.php?query=creator:%22Josiah+Granville+Leach%22)
 
@@ -106,6 +106,14 @@ Publisher: Lippincott
 URL: https://archive.org/details/genealogicaland00leacgoog
 
 ---
+
+[^1]: Josiah Granville Leach, *Genealogical and Biographical Memorials of the Reading, Howell, Yerkes, Watts, Latham, and Elkins Families* (Philadelphia: Lippincott, 1898). Public domain; digitized by Google from the University of Wisconsin–Madison library. Available at [archive.org/details/genealogicaland00leacgoog](https://archive.org/details/genealogicaland00leacgoog). The transcription on this page covers pp. 129–139.
+[^2]: Hywel Dda (c. 880–950), king of Deheubarth who came to rule most of Wales and whose name is associated with the medieval Laws of Wales. See "[Hywel Dda](https://en.wikipedia.org/wiki/Hywel_Dda)," *Wikipedia*.
+[^3]: William of Malmesbury (c. 1090–1143), *Chronicle of the Kings of England* (*Gesta Regum Anglorum*). Available at [archive.org/details/williamofmalmesb1847will](https://archive.org/details/williamofmalmesb1847will).
+[^4]: James Howell, *Epistolæ Ho-Elianæ: The Familiar Letters of James Howell* (London, 1645–1655). Available at [archive.org/details/epistolaehoelian01howeiala](https://archive.org/details/epistolaehoelian01howeiala).
+[^5]: Edward Howell (c. 1584–1655) was one of nine founding proprietors of Southampton, Long Island, in 1640, the first English settlement in what is now New York State. See "[Edward Howell (died 1655)](https://en.wikipedia.org/wiki/Edward_Howell_(died_1655))," *Wikipedia*.
+[^6]: **Correction:** Leach (1898) states Lewis died "on the day of the battle of Monmouth." This is incorrect. Per primary sources, Lewis was ill during the Monmouth campaign, resigned his commission on July 5, 1778—seven days after the battle (June 28, 1778)—and died shortly thereafter at a tavern near Monmouth Court House. Source: footnotes to "To George Washington from Major Richard Howell, 7 April 1779," *Founders Online*, National Archives; *Washington Papers*, Revolutionary War Series, vol. 19, ed. Philander D. Chase and William M. Ferraro (University of Virginia Press, 2009), pp. 765–766. See the [Dr. Lewis Howell](/people/dr-lewis-howell/) profile.
+[^7]: "[Richard Howell (1754–1802)](https://www.wikitree.com/wiki/Howell-2982)," *WikiTree* (profile ID: Howell-2982).
 
 <!--
 **Andrew's Research Notes:**

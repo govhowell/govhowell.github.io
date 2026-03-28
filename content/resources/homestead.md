@@ -14,7 +14,7 @@ tags: ["homestead", "Roadstown", "Cumberland County", "Ebenezer Howell", "Histor
 
 **Ebenezer Howell**, Richard Howell's father, removed from Newark, Delaware in 1769 and 4 years later built this house. Richard and his twin brother Lewis were 19 years old when they moved into the house.
 
-At the time of the homestead survey there were initials "RH 1773" and "LH" carved next to the rear doorway. A year later after moving into this house on December 22, 1774, Richard and Lewis Howell participated in the [Greenwich Tea Burning](/events/). They used their father's house as a staging area to gather with other tea burners to plan their night's activities.
+At the time of the homestead survey there were initials "RH 1773" and "LH" carved next to the rear doorway. A year later after moving into this house on December 22, 1774, Richard and Lewis Howell participated in the [Greenwich Tea Burning](/events/).[^2] They used their father's house as a staging area to gather with other tea burners to plan their night's activities.
 
 Howell Homestead is in Cumberland County, Roadstown, NJ.
 
@@ -33,11 +33,11 @@ The following images are from the Historic American Buildings Survey (Library of
 | [![Survey drawing 3](/images/00003r.jpg)](/images/00003r.jpg) | [![Survey drawing 4](/images/00002r.jpg)](/images/00002r.jpg) |
 | [![Survey drawing 5](/images/00006r.jpg)](/images/00006r.jpg) | [![Survey drawing 6](/images/00001r.jpg)](/images/00001r.jpg) |
 
-A special thanks to the Smithsonian Museum for the content above. The original content can be viewed [here](http://hdl.loc.gov/loc.pnp/hhh.nj0452).
+A special thanks to the Smithsonian Museum for the content above. The original content can be viewed [here](http://hdl.loc.gov/loc.pnp/hhh.nj0452).[^1]
 
 ---
 
-## HABS Survey Record
+## HABS Survey Record[^1]
 
 **6 drawings, 1 b&w photo, 4 data pages**
 
@@ -92,6 +92,9 @@ http://hdl.loc.gov/loc.pnp/hhh.nj0452
 NJ0452
 
 ---
+
+[^1]: Historic American Buildings Survey, *Howell Homestead, Roadstown Road, Roadstown, Cumberland County, NJ*, HABS NJ-76 (call number HABS NJ,6-ROATO.V,1-). Documentation compiled after 1933; 6 measured drawings, 1 photograph, 3 data pages plus cover. Library of Congress, Prints and Photographs Division, Washington, D.C. Digital ID: [hdl.loc.gov/loc.pnp/hhh.nj0452](https://hdl.loc.gov/loc.pnp/hhh.nj0452).
+[^2]: The Greenwich Tea Burning took place on the evening of December 22, 1774, in Greenwich, Cumberland County, NJ, when approximately forty Whig colonists destroyed a shipment of East India Company tea. It is recognized as one of five American tea-party protests of the colonial period. See "[Greenwich Tea Party](https://en.wikipedia.org/wiki/Greenwich_Tea_Party)," *Wikipedia*; and [revolutionarynj.org/sites/greenwich-tea-burning-monument](https://revolutionarynj.org/sites/greenwich-tea-burning-monument/).
 
 <!--
 **Andrew's Research Notes:**
