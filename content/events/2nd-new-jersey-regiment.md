@@ -9,15 +9,15 @@ tags: ["revolutionary-war", "military", "2nd-new-jersey", "valley-forge", "maxwe
 weight: 1
 ---
 
-The **2nd New Jersey Regiment** was part of [Maxwell's Brigade](https://valleyforgemusterroll.org/maxwells-brigade/) in the Continental Army. Richard Howell served as **Major** of this regiment, the military role that defined the first half of his public life.
+The **2nd New Jersey Regiment** was part of [Maxwell's Brigade](https://valleyforgemusterroll.org/maxwells-brigade/) in the Continental Army.[^3] Richard Howell served as **Major** of this regiment, the military role that defined the first half of his public life.
 
 ## History
 
-The regiment was organized in **December 1775** at Burlington and Trenton, drawing recruits from Gloucester, Huntington, Burlington, Salem, and Sussex Counties, New Jersey.
+The regiment was organized in **December 1775** at Burlington and Trenton, drawing recruits from Gloucester, Huntington, Burlington, Salem, and Sussex Counties, New Jersey.[^1]
 
 **At Valley Forge (Winter 1777–1778)**
 
-The regiment entered Valley Forge with 275 men assigned, of whom 204 were fit for duty, a testament to the brutal attrition of that winter encampment. By the time the army departed in March 1778, the regiment had been reinforced: 443 assigned, 373 fit for duty.
+The regiment entered Valley Forge with 275 men assigned, of whom 204 were fit for duty, a testament to the brutal attrition of that winter encampment. By the time the army departed in March 1778, the regiment had been reinforced: 443 assigned, 373 fit for duty.[^2]
 
 **Previous Engagements**
 
@@ -72,10 +72,9 @@ The regiment entered Valley Forge with 275 men assigned, of whom 204 were fit fo
 
 ---
 
-## Sources
-
-- [Valley Forge Muster Roll — 2nd New Jersey Regiment](https://valleyforgemusterroll.org/2nd-new-jersey-regiment/), Valley Forge Legacy: The Muster Roll Project.
-- [Maxwell's Brigade](https://valleyforgemusterroll.org/maxwells-brigade/), Valley Forge Legacy: The Muster Roll Project.
+[^1]: Valley Forge Muster Roll Project, [2nd New Jersey Regiment](https://valleyforgemusterroll.org/2nd-new-jersey-regiment/), Valley Forge Legacy: The Muster Roll Project.
+[^2]: Valley Forge Muster Roll Project, [2nd New Jersey Regiment](https://valleyforgemusterroll.org/2nd-new-jersey-regiment/). Strength figures drawn from muster records for the winter encampment of 1777–1778.
+[^3]: Valley Forge Muster Roll Project, [Maxwell's Brigade](https://valleyforgemusterroll.org/maxwells-brigade/), Valley Forge Legacy: The Muster Roll Project.
 
 ---
 

@@ -20,13 +20,13 @@ draft: false
 
 This website was created for the sole purpose of publishing the best information available on **Richard Bond Howell** and his family. As a soldier and later Governor, Richard played a pivotal role during the American Revolution and the birth of a new nation. His significant roles, contributions, and sacrifices during this remarkable period in American history are noteworthy.
 
-He was an intelligence officer entrusted by General Washington to gather vital British troop movement information and report directly to the General. Richard Howell served as Brigade Major in General Maxwell's NJ Brigade at various skirmishes throughout Pennsylvania and New Jersey, and at the battles of **Brandywine**, **Germantown**, and **Monmouth Courthouse**.
+He was an intelligence officer entrusted by General Washington to gather vital British troop movement information and report directly to the General. Richard Howell served as Brigade Major in General Maxwell's NJ Brigade at various skirmishes throughout Pennsylvania and New Jersey, and at the battles of **Brandywine**, **Germantown**, and **Monmouth Courthouse**.[^1]
 
-He was a statesman, elected as one of two delegates from Gloucester County, New Jersey, to ratify the United States Constitution.
+He was a statesman, elected as one of three delegates from Gloucester County, New Jersey, to ratify the United States Constitution.[^2]
 
-He was a poet. He wrote patriotic songs, one of which was sung for General Washington at a reception in Trenton, New Jersey, as Washington made his way from Mount Vernon to New York City for his inauguration as the first President of the United States.
+He was a poet. He wrote patriotic songs, one of which was sung for General Washington at a reception in Trenton, New Jersey, as Washington made his way from Mount Vernon to New York City for his inauguration as the first President of the United States.[^3]
 
-As Governor and Commander in Chief of New Jersey, Richard Howell led the "Jersey Blues" in the [Whiskey Rebellion](https://en.wikipedia.org/wiki/Whiskey_Rebellion).
+As Governor and Commander in Chief of New Jersey, Richard Howell led the "Jersey Blues" in the [Whiskey Rebellion](https://en.wikipedia.org/wiki/Whiskey_Rebellion).[^4]
 
 He is one of America's often overlooked, unsung heroes.
 
@@ -41,12 +41,12 @@ He is one of America's often overlooked, unsung heroes.
 
 | | |
 |---|---|
-| **Born** | October 25, 1754, Newark, New Castle County, Delaware |
+| **Born** | October 25, 1754, Newark, New Castle County, Delaware[^5] |
 | **Father** | Ebenezer Howell |
 | **Mother** | Sarah S. (Bond) Howell |
 | **Brother** | [Dr. Lewis B. Howell](/people/dr-lewis-howell/) |
 | **Wife** | Keziah (Burr) Howell, married 1779, New Jersey |
-| **Died** | April 28, 1802, Trenton, New Jersey |
+| **Died** | April 28, 1802, Trenton, New Jersey[^6] |
 
 ### Children
 
@@ -88,3 +88,12 @@ If you have information that may help uncover details about Richard's life or fa
 ---
 
 *Content licensed under [Creative Commons Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/) by William Henderson.*
+
+---
+
+[^1]: Valley Forge Muster Roll Project, [2nd New Jersey Regiment](https://valleyforgemusterroll.org/2nd-new-jersey-regiment/); National Park Service, [The Philadelphia Campaign of 1777](https://www.nps.gov/articles/000/philadelphia-campaign-1777.htm); National Park Service, [Monmouth Battlefield State Park](https://www.nps.gov/mono/index.htm).
+[^2]: New Jersey's ratification convention (December 18, 1787) sent three delegates from Gloucester County: Richard Howell, Andrew Hunter, and Benjamin Whitall. See *Minutes of the Convention of the State of New-Jersey* (1787), [New Jersey State Archives](https://www.nj.gov/state/archives/doc1787conventionminutes.html).
+[^3]: "To George Washington from Richard Howell, 21 April 1789," *Founders Online*, National Archives, <https://founders.archives.gov/documents/Washington/05-02-02-0095>. The ode was composed and performed at a reception in Trenton as Washington traveled to New York for his inauguration.
+[^4]: Library of Congress, George Washington Papers, [The Whiskey Rebellion](https://www.loc.gov/collections/george-washington-papers/articles-and-essays/george-washington-survey-course/whiskey-rebellion/).
+[^5]: Josiah Granville Leach, *Genealogical and Biographical Memorials of the Reading, Howell, Yerkes, Watts, Latham, and Elkins Families* (Philadelphia: Lippincott, 1898), p. 139, <https://archive.org/details/genealogicaland00leacgoog>.
+[^6]: National Governors Association, [Richard Howell](https://www.nga.org/governor/richard-howell/); Find A Grave, [Richard Howell memorial](https://www.findagrave.com/memorial/7096512/richard-howell).
