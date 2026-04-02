@@ -60,6 +60,10 @@ The following men are known to have participated in the burning:
 | Henry Stacks | |
 | Silas Whitcar | *(original source spells "Whitekar", likely error)* |
 
+## Legacy
+
+Greenwich holds the distinction of being one of only five tea-party towns in America, alongside Boston, Charleston, Annapolis, and Princeton.[^6]
+
 ## The 1908 Memorial
 
 In 1908, the 134th anniversary of the burning, a memorial was dedicated in Greenwich to the Tea Burners, with the participants' names inscribed on its sides.[^4]
@@ -70,11 +74,12 @@ The centennial of the memorial (1908–2008) was celebrated in September 2008 an
 
 ---
 
-[^1]: Frank D. Andrews, *The Tea-Burners of Cumberland County* (Vineland, N.J., 1908), <https://archive.org/details/teaburnersofcumb00andr>; [Crossroads of the American Revolution, Greenwich Tea Burning Monument](https://revolutionarynj.org/sites/greenwich-tea-burning-monument/).
-[^2]: Andrews (1908). Details of the *Greyhound*, Captain Allen, and the Bowen cellar are drawn from this primary account.
+[^1]: Frank D. Andrews, *The Tea-Burners of Cumberland County* (Vineland, N.J., 1908), <https://archive.org/details/teaburnersofcumb00andr>; [Crossroads of the American Revolution, Greenwich Tea Burning Monument](https://revolutionarynj.org/sites/greenwich-tea-burning-monument/); Cumberland County, N.J., [Greenwich Tea Burning: 1774](https://www.cumberlandcountynj.gov/greenwich-tea-burning).
+[^2]: Andrews (1908); Cumberland County, N.J., [Greenwich Tea Burning: 1774](https://www.cumberlandcountynj.gov/greenwich-tea-burning). Details of the *Greyhound*, Daniel Bowen, and the Cohansey landing are consistent across both sources.
 [^3]: Andrews (1908); [Revolutionary War New Jersey, Greenwich](http://www.revolutionarywarnewjersey.com/new_jersey_revolutionary_war_sites/towns/greenwich_nj_revolutionary_war_sites.htm).
 [^4]: Andrews (1908). The 1908 book was published in conjunction with the memorial dedication ceremony.
 [^5]: Cumberland County Historical Society, [Tea Burners Celebration](http://www.cchistsoc.org/teaburnerscelebration.html). Note: this page returns a 403 (server-side block) when accessed programmatically; it was live as of prior verification. Check manually if the link breaks.
+[^6]: Cumberland County, N.J., [Greenwich Tea Burning: 1774](https://www.cumberlandcountynj.gov/greenwich-tea-burning).
 
 ---
 
