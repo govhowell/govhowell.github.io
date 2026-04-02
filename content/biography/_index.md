@@ -41,7 +41,7 @@ weight: 1
 
 Richard Howell was born on October 25, 1754, in Newark, New Castle County, Delaware, the son of Ebenezer Howell and Sarah S. (Bond) Howell.[^1] He was born with a twin brother, Lewis, who would accompany him into the Revolutionary War.
 
-In 1769, Ebenezer Howell moved the family from Delaware to Cumberland County, New Jersey. In 1773 he built the [Howell Homestead](/resources/homestead/) in Roadstown, and carved the initials *"RH 1773"* and *"LH"* by the rear doorway, for Richard and Lewis.
+In 1769, Ebenezer Howell moved the family from Delaware to Cumberland County, New Jersey. The Howells were part of a broader Welsh immigrant family with deep roots in the region; another kinsman, [Rednap Howell](/people/rednap-howell/), had already made his mark as a schoolmaster and political agitator in North Carolina. In 1773 Ebenezer built the [Howell Homestead](/resources/homestead/) in Roadstown, and carved the initials *"RH 1773"* and *"LH"* by the rear doorway, for Richard and Lewis.
 
 On **December 22, 1774**, the nineteen-year-old Richard Howell participated in the [Greenwich Tea Burning](/events/greenwich-tea-burning/), New Jersey's answer to the Boston Tea Party.[^2] A group of local patriots, including both Howell brothers, raided a merchant's cellar and burned British tea in the town square. The Howell Homestead served as a staging area. It was Richard Howell's first act of open defiance against the Crown.
 
@@ -63,7 +63,7 @@ Howell saw action at three of the war's most significant engagements:[^4]
 
 ### Valley Forge
 
-The regiment wintered at Valley Forge with Washington's main army in 1777–1778.[^3] The encampment tested every man's endurance. Dr. Lewis Howell reportedly used his own funds to purchase blankets for the regiment's soldiers.
+The regiment wintered at Valley Forge with Washington's main army in 1777–1778.[^3] The encampment tested every man's endurance.
 
 ### The Death of Lewis Howell
 
@@ -118,7 +118,7 @@ Richard Howell was also a man of letters. He wrote patriotic songs, one of which
 
 Richard Howell died on **April 28, 1802**, in Trenton, New Jersey, at the age of 47.[^12] He was buried at **Friends Burying Ground**, South Broad Street, Trenton, NJ.[^13]
 
-He left behind a wife, nine children, and a record of service that spanned nearly every chapter of the founding era, the Tea Burning, the Revolutionary War, the Constitution, and the early republic. He was soldier, spy, delegate, governor, and poet. And he remains, as his descendants have noted, one of America's often overlooked, unsung heroes.
+He left behind a wife, nine children, and a record of service that spanned nearly every chapter of the founding era, the Tea Burning, the Revolutionary War, the Constitution, and the early republic. Among his descendants, his son [William B. Howell](/people/william-howell-1793-1863/) became the father of [Varina Howell Davis](/people/varina-howell-davis/), who married Jefferson Davis and served as First Lady of the Confederacy. He was soldier, spy, delegate, governor, and poet. And he remains, as his descendants have noted, one of America's often overlooked, unsung heroes.
 
 ---
 
@@ -130,7 +130,7 @@ He left behind a wife, nine children, and a record of service that spanned nearl
 | [Letters](/letters/) | Primary source correspondence |
 | [Historical Events](/events/) | Greenwich Tea Burning, 2nd NJ Regiment, and more |
 | [Family](/family/) | Howell family history and genealogy |
-| [People](/people/) | Dr. Lewis Howell, Varina Howell Davis, and others |
+| [People](/people/) | [Rednap Howell](/people/rednap-howell/), [Dr. Lewis Howell](/people/dr-lewis-howell/), [Varina Howell Davis](/people/varina-howell-davis/), and others |
 | [Resources](/resources/) | Maps, documents, homestead, contact |
 
 ---
