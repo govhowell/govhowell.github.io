@@ -407,6 +407,34 @@ a {
   .title-desktop { display: none; }
 }
 
+// -- Obfuscated Email Link --
+.obfuscated-email {
+  display: block;
+  text-align: center;
+  margin: 1.5em 0;
+
+  .email-link {
+    display: inline-block;
+    font-family: 'IM Fell English SC', serif;
+    font-size: 1.3rem;
+    letter-spacing: 0.04em;
+    color: $parchment-bg;
+    background-color: $accent-red;
+    padding: 0.7em 2em;
+    border: 2px solid darken($accent-red, 10%);
+    box-shadow: 0 3px 10px rgba(44, 31, 14, 0.3);
+    text-decoration: none;
+    transition: background-color 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+      background-color: darken($accent-red, 12%);
+      box-shadow: 0 4px 16px rgba(44, 31, 14, 0.45);
+      color: $parchment-bg;
+      text-decoration: none;
+    }
+  }
+}
+
 // -- Footer --
 footer {
   border-top: 1px solid $parchment-border;
