@@ -15,15 +15,13 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5  # v4.3.1
         with:
           fetch-depth: 0
 
       - name: Setup Hugo
-        # SECURITY: Pin to specific version. Update intentionally when upgrading Hugo.
-        # TODO: Replace @v3 tag with full commit SHA for stronger supply-chain security.
-        # Find SHA at: https://github.com/peaceiris/actions-hugo/releases
-        uses: peaceiris/actions-hugo@v3
+        # SECURITY: Pinned to full commit SHA for supply-chain security.
+        uses: peaceiris/actions-hugo@75d2e84710de30f6ff7268e08f310b60ef14033f  # v3.0.0
         with:
           hugo-version: '0.155.2'  # pinned — do not change to 'latest'
           extended: true           # required for SCSS processing (parchment skin)
@@ -32,10 +30,9 @@ jobs:
         run: hugo --minify --gc
 
       - name: Deploy to gh-pages branch
-        # SECURITY: TODO — replace @v4 tag with full commit SHA for supply-chain security.
-        # Find SHA at: https://github.com/peaceiris/actions-gh-pages/releases
+        # SECURITY: Pinned to full commit SHA for supply-chain security.
         # ACCEPTED RISK: permissions: contents: write is required for this action to push.
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@4f9cc6602d3f66b9c108549d475ec49e8ef4d45e  # v4.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
