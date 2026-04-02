@@ -13,6 +13,8 @@ This section provides biographical profiles of key individuals connected to Gove
 
 - **[William Burr Howell (1793–1863)](/people/william-howell-1793-1863/)**, Son of Richard Howell. Soldier in the War of 1812, later settled in Mississippi. Father of Varina Howell Davis. Includes a letter from Jefferson Davis to William Howell (October 22, 1854).
 
+- **[Rear Admiral John Cumming Howell (1819–1892)](/people/admiral-john-c-howell/)**, Grandson of Richard Howell through his son Richard Lewis Howell. Entered the Navy in 1836 and served for forty-five years. Civil War veteran of Hatteras Inlet, the Gulf blockade, and both battles of Fort Fisher. Rose to Rear Admiral, served as Acting Secretary of the Navy, and commanded both the North Atlantic and European Squadrons. Member of the Society of the Cincinnati. Died in Folkestone, England.
+
 - **[Varina Howell Davis (1826–1906)](/people/varina-howell-davis/)**, Granddaughter of Richard Howell through her father William Burr Howell. First Lady of the Confederate States of America as wife of Jefferson Davis. Author of a memoir of her husband. Includes multiple letters from Jefferson Davis. Died in New York, 1906; interred at Hollywood Cemetery, Richmond.
 
 For the full genealogical context of the Howell family from Wales through colonial America, see the [Family](/family/) section.
