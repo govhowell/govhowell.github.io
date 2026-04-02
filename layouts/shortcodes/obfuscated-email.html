@@ -3,7 +3,7 @@
 {{- $label := .Get "label" | default "Send us a message" -}}
 {{- $id := printf "email-%s" (substr (md5 (printf "%s@%s" $user $domain)) 0 8) -}}
 <span id="{{ $id }}" class="obfuscated-email">
-  <noscript>Enable JavaScript to see the email address.</noscript>
+  <noscript>{{ $user }} [at] {{ $domain }}</noscript>
 </span>
 <script>
 (function() {
