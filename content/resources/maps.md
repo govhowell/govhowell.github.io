@@ -5,7 +5,7 @@ draft: false
 tags: ["maps", "Revolutionary War", "New Jersey", "Wales", "colonial America", "cartography"]
 ---
 
-Here are maps covering the period of Richard Howell's life and the American Revolution. Also included are maps from the United Kingdom and specifically Wales.
+Here are maps covering the period of Richard Howell's life and the American Revolution. Also included are maps from the United Kingdom and specifically Wales.[^1]
 
 ---
 
@@ -13,7 +13,7 @@ Here are maps covering the period of Richard Howell's life and the American Revo
 
 | Map | Caption |
 |-----|---------|
-| [![Newark De. 1736](/images/Ebenezer_Howell_Map_Newark_De.png)](/images/Ebenezer_Howell_Map_Newark_De.png) | **Newark, Delaware, 1736**, Map of Newark, Delaware at the time Ebenezer Howell's family lived there before removing to New Jersey in 1769. |
+| [![Newark De. 1736](/images/Ebenezer_Howell_Map_Newark_De.png)](/images/Ebenezer_Howell_Map_Newark_De.png) | **Newark, Delaware, 1736**, Map of Newark, Delaware at the time Ebenezer Howell's family lived there before removing to New Jersey in 1769.[^2] |
 
 ---
 
@@ -34,10 +34,10 @@ Here are maps covering the period of Richard Howell's life and the American Revo
 | [![The Forage War 1777](/images/newjerseymap.jpg)](/images/newjerseymap.jpg) | **The Forage War, 1777**, The Forage War was a series of skirmishes in New Jersey in early 1777. |
 | [![New Jersey and Long Island](/images/Map-of-New-Jersey-during-rev-war.jpg)](/images/Map-of-New-Jersey-during-rev-war.jpg) | **New Jersey and Long Island**, Map of New Jersey and Long Island during the Revolutionary War. |
 | [![Revolution in New Jersey](/images/map-of-new-jersey-Rev-sites.jpg)](/images/map-of-new-jersey-Rev-sites.jpg) | **Revolution in New Jersey**, Map of Revolutionary War sites in New Jersey. |
-| [![Battle of Monmouth](/images/Battle_of_Monmouth.Dean_.USMA_.edu_.history.gif)](/images/Battle_of_Monmouth.Dean_.USMA_.edu_.history.gif) | **Battle of Monmouth** (USMA), Tactical map of the Battle of Monmouth, June 28, 1778. Richard Howell fought at Monmouth; his twin brother [Dr. Lewis Howell](/people/dr-lewis-howell/) died of illness seven days after this battle. |
+| [![Battle of Monmouth](/images/Battle_of_Monmouth.Dean_.USMA_.edu_.history.gif)](/images/Battle_of_Monmouth.Dean_.USMA_.edu_.history.gif) | **Battle of Monmouth** (USMA), Tactical map of the Battle of Monmouth, June 28, 1778.[^3] Richard Howell fought at Monmouth; his twin brother [Dr. Lewis Howell](/people/dr-lewis-howell/) fell ill during the campaign and died shortly after.[^4] |
 | [![Monmouth Map](/images/Monmouth-map.jpg)](/images/Monmouth-map.jpg) | **Monmouth Map**, Vintage map of Monmouth County, New Jersey. |
-| [![1777 Battle of Germantown, Montresor](/images/1777montresor.jpg)](/images/1777montresor.jpg) | **1777 Battle of Germantown, Montresor**, Map by engineer John Montresor of the Battle of Germantown, October 4, 1777. |
-| [![1777–1778 Valley Forge Encampment](/images/1777valleyforgecomp.jpg)](/images/1777valleyforgecomp.jpg) | **1777–1778 Valley Forge Encampment**, Map of the Valley Forge winter encampment. Dr. Lewis Howell purchased blankets with his own money for his regiment during this encampment. |
+| [![1777 Battle of Germantown, Montresor](/images/1777montresor.jpg)](/images/1777montresor.jpg) | **1777 Battle of Germantown, Montresor**, Map by British Royal Engineer John Montresor of the Battle of Germantown, October 4, 1777.[^5] |
+| [![1777–1778 Valley Forge Encampment](/images/1777valleyforgecomp.jpg)](/images/1777valleyforgecomp.jpg) | **1777–1778 Valley Forge Encampment**, Map of the Valley Forge winter encampment, where the 2nd New Jersey Regiment wintered with Washington's main army.[^6] |
 | [![Battle of Brandywine](/images/Battle-of-Brandywine-Map.jpg)](/images/Battle-of-Brandywine-Map.jpg) | **Battle of Brandywine** |
 | [![Path towards American Independence](/images/the-path-towards-american-independence0.gif)](/images/the-path-towards-american-independence0.gif) | **Path towards American Independence** |
 | [![Battle of Brandywine (USMA)](/images/battle_of_brandywine-usma-edu-history-1.gif)](/images/battle_of_brandywine-usma-edu-history-1.gif) | **Battle of Brandywine** (USMA) |
@@ -57,12 +57,20 @@ Here are maps covering the period of Richard Howell's life and the American Revo
 
 | Map | Caption |
 |-----|---------|
-| [![Radnor 1627](/images/Radnor-1627.jpg)](/images/Radnor-1627.jpg) | **Radnor (in Wales), 1627**, Map of Radnorshire, Wales. The Howell family traces its origins to Wales. See the [Howell Family History](/family/howell-family-history/) for the Welsh genealogy. |
+| [![Radnor 1627](/images/Radnor-1627.jpg)](/images/Radnor-1627.jpg) | **Radnor (in Wales), 1627**, Map of Radnorshire, Wales. The Howell family traces its origins to Wales.[^7] See the [Howell Family History](/family/howell-family-history/) for the Welsh genealogy. |
 | [![Earliest Known Map of Wales](/images/Earliest-known-map-of-Wales.jpg)](/images/Earliest-known-map-of-Wales.jpg) | **Earliest Known Map of Wales** |
 | [![Britain AD 500](/images/Brittain-ad-500.jpg)](/images/Brittain-ad-500.jpg) | **Britain, AD 500** |
 | [![Roman Era Wales Roads](/images/Roman.Wales_.Forts_.Fortlets.Roads_.jpg)](/images/Roman.Wales_.Forts_.Fortlets.Roads_.jpg) | **Roman Era Wales, Forts, Fortlets, Roads, c. 75 – late 300s** |
 
 ---
+
+[^1]: For Richard Howell's military service and the battles referenced in these maps, see the [Biography](/biography/) and [Revolutionary War Timeline](/timelines/revolutionary-war-timeline/).
+[^2]: Josiah Granville Leach, *Genealogical and Biographical Memorials of the Reading, Howell, Yerkes, Watts, Latham, and Elkins Families* (Philadelphia: Lippincott, 1898), p. 139, <https://archive.org/details/genealogicaland00leacgoog>. Ebenezer Howell moved the family from Newark, Delaware, to Cumberland County, New Jersey, in 1769.
+[^3]: National Park Service, [Monmouth Battlefield State Park](https://www.nps.gov/mono/index.htm). The Battle of Monmouth was fought June 28, 1778.
+[^4]: "To George Washington from Major Richard Howell, 7 April 1779," *Founders Online*, National Archives, <https://founders.archives.gov/documents/Washington/03-19-02-0717>. Lewis Howell resigned his commission July 5, 1778, and died shortly thereafter.
+[^5]: John Montresor (1736–1799) was a British Royal Engineer who produced detailed battlefield maps during the American Revolution. His maps are held by various archives and are considered significant primary cartographic sources.
+[^6]: Valley Forge Muster Roll Project, [2nd New Jersey Regiment](https://valleyforgemusterroll.org/2nd-new-jersey-regiment/); National Park Service, [Valley Forge National Historical Park](https://www.nps.gov/vafo/index.htm).
+[^7]: Leach (1898), pp. 129–132. The Howell name traces to Hywel Dda (c. 880–950), king of Deheubarth, who came to rule most of Wales.
 
 <!--
 **Andrew's Research Notes:**
